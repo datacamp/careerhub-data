@@ -1,0 +1,1616 @@
+year,region,wine,beer,vodka,champagne,brandy
+1998,Republic of Adygea,1.9,8.8,3.4,0.3,0.1
+1998,Altai Krai,3.3,19.2,11.3,1.1,0.1
+1998,Amur Oblast,2.1,21.2,17.3,0.7,0.4
+1998,Arkhangelsk Oblast,4.3,10.6,11.7,0.4,0.3
+1998,Astrakhan Oblast,2.9,18.0,9.5,0.8,0.2
+1998,Republic of Bashkortostan,1.8,17.5,10.7,0.9,0.2
+1998,Belgorod Oblast,3.4,23.0,10.8,0.9,0.1
+1998,Bryansk Oblast,3.4,32.4,9.7,0.5,0.1
+1998,Republic of Buryatia,1.1,8.8,15.8,0.9,0.1
+1998,Vladimir Oblast,1.5,16.6,16.8,0.5,0.1
+1998,Volgograd Oblast,2.9,27.9,12.9,1.5,0.3
+1998,Vologda Oblast,3.9,23.7,19.3,0.6,0.3
+1998,Voronezh Oblast,1.3,19.0,14.2,1.2,0.1
+1998,Republic of Dagestan,4.8,3.8,2.0,0.5,0.3
+1998,Jewish Autonomous Oblast,2.3,11.6,11.5,0.5,0.2
+1998,Zabaykalsky Krai,0.9,8.6,5.0,0.2,0.1
+1998,Ivanovo Oblast,1.4,20.7,16.1,0.1,0.04
+1998,Republic of Ingushetia,,,,,
+1998,Irkutsk Oblast,5.6,26.8,14.8,1.0,0.4
+1998,Kabardino-Balkar Republic,1.6,9.9,6.5,0.3,0.3
+1998,Kaliningrad Oblast,2.7,21.6,12.2,1.1,0.3
+1998,Republic of Kalmykia,2.3,4.1,11.1,0.3,0.1
+1998,Kaluga Oblast,2.8,24.2,15.6,0.7,0.1
+1998,Kamchatka Krai,6.4,25.5,25.1,0.8,0.4
+1998,Karachay-Cherkess Republic,1.7,5.4,8.6,0.1,0.04
+1998,Republic of Karelia,3.2,16.2,15.4,0.5,0.2
+1998,Kemerovo Oblast,3.6,25.6,16.8,1.1,0.4
+1998,Kirov Oblast,2.0,12.4,12.8,0.4,0.1
+1998,Kostroma Oblast,1.7,25.8,17.9,1.2,0.1
+1998,Krasnodar Krai,8.5,18.3,8.7,1.0,0.3
+1998,Krasnoyarsk Krai,3.7,25.0,14.1,0.9,0.3
+1998,Republic of Crimea,,,,,
+1998,Kurgan Oblast,3.8,20.1,15.1,1.2,0.2
+1998,Kursk Oblast,1.5,22.9,4.4,0.7,0.1
+1998,Leningrad Oblast,2.3,15.0,13.9,0.5,0.2
+1998,Lipetsk Oblast,2.6,29.6,15.3,1.4,0.2
+1998,Magadan Oblast,6.2,33.8,23.1,2.1,0.3
+1998,Mari El Republic,3.6,28.4,13.5,0.7,0.2
+1998,Republic of Mordovia,1.2,20.5,10.8,0.9,0.1
+1998,Moscow,6.8,30.0,18.9,3.5,0.7
+1998,Moscow Oblast,2.2,11.9,15.2,1.1,0.2
+1998,Murmansk Oblast,4.8,21.4,16.6,1.7,0.6
+1998,Nenets Autonomous Okrug,4.3,10.6,11.7,0.4,0.3
+1998,Nizhny Novgorod Oblast,3.4,14.8,9.6,1.0,0.2
+1998,Novgorod Oblast,4.1,32.7,16.5,1.6,0.2
+1998,Novosibirsk Oblast,2.0,22.0,16.4,0.9,0.1
+1998,Omsk Oblast,6.2,42.1,12.8,1.0,0.6
+1998,Orenburg Oblast,1.7,19.0,9.1,1.2,0.2
+1998,Oryol Oblast,3.1,14.7,11.8,0.8,0.4
+1998,Penza Oblast,1.9,18.5,5.8,0.2,0.1
+1998,Perm Krai,3.2,19.0,16.7,0.9,0.2
+1998,Primorsky Krai,0.6,14.9,6.3,0.8,0.1
+1998,Pskov Oblast,1.8,7.2,8.7,0.3,0.04
+1998,Altai Republic,3.4,7.6,9.0,0.5,0.1
+1998,Komi Republic,5.7,30.3,21.1,1.9,0.6
+1998,Tuva Republic,1.9,7.4,11.1,0.3,0.1
+1998,Rostov Oblast,5.3,20.1,9.7,1.3,0.1
+1998,Ryazan Oblast,1.6,28.4,14.8,1.5,0.1
+1998,Samara Oblast,2.8,23.1,11.2,1.8,0.2
+1998,Saint Petersburg,2.7,27.9,12.3,1.2,0.5
+1998,Saratov Oblast,2.1,24.6,11.7,1.5,0.3
+1998,Sakhalin Oblast,2.1,13.9,16.3,0.7,0.1
+1998,Sverdlovsk Oblast,4.4,31.1,12.8,1.4,0.4
+1998,Sevastopol,,,,,
+1998,Republic of North Ossetia-Alania,1.4,23.3,10.6,1.4,0.1
+1998,Smolensk Oblast,3.4,35.6,14.0,0.6,0.2
+1998,Stavropol Krai,8.8,17.2,11.8,1.6,0.4
+1998,Tambov Oblast,1.7,12.6,12.3,1.2,0.3
+1998,Republic of Tatarstan,1.4,28.2,18.0,0.4,0.1
+1998,Tver Oblast,2.6,14.1,8.9,0.5,0.3
+1998,Tomsk Oblast,4.8,18.7,16.8,1.1,0.4
+1998,Tula Oblast,2.3,23.8,11.5,0.4,0.1
+1998,Tyumen Oblast,3.0,23.8,11.5,0.8,0.3
+1998,Udmurt Republic,3.6,15.8,11.4,0.9,0.2
+1998,Ulyanovsk Oblast,1.0,34.8,9.7,0.3,0.2
+1998,Khabarovsk Krai,3.7,24.8,15.6,1.4,0.6
+1998,Republic of Khakassia,1.6,38.3,6.8,0.9,0.1
+1998,Khanty–Mansi Autonomous Okrug – Yugra,3.0,23.8,11.5,0.8,0.3
+1998,Chelyabinsk Oblast,4.7,27.9,11.1,1.4,0.2
+1998,Chechen Republic,,,,,
+1998,Chuvash Republic,1.6,20.9,8.8,0.8,0.02
+1998,Chukotka Autonomous Okrug,0.3,1.8,4.6,0.6,0.1
+1998,Sakha (Yakutia) Republic,1.7,16.7,18.9,1.4,0.2
+1998,Yamalo-Nenets Autonomous Okrug,3.0,23.8,11.5,0.8,0.3
+1998,Yaroslavl Oblast,3.5,32.4,21.1,0.7,0.3
+1999,Republic of Adygea,2.3,11.2,4.3,0.3,0.1
+1999,Altai Krai,2.2,24.7,11.5,1.1,0.1
+1999,Amur Oblast,2.9,26.7,16.2,0.7,0.2
+1999,Arkhangelsk Oblast,4.6,17.4,14.9,0.6,0.3
+1999,Astrakhan Oblast,3.8,18.6,10.2,0.5,0.1
+1999,Republic of Bashkortostan,1.5,22.3,12.0,0.8,0.1
+1999,Belgorod Oblast,2.7,22.3,10.3,0.7,0.1
+1999,Bryansk Oblast,3.1,34.8,10.6,0.5,0.1
+1999,Republic of Buryatia,1.3,9.5,19.6,1.1,0.1
+1999,Vladimir Oblast,1.8,21.4,16.1,0.5,0.1
+1999,Volgograd Oblast,3.5,36.5,9.2,2.1,0.2
+1999,Vologda Oblast,2.5,24.8,17.4,0.4,0.1
+1999,Voronezh Oblast,2.1,24.4,11.7,1.0,0.1
+1999,Republic of Dagestan,3.8,1.6,1.0,0.2,0.1
+1999,Jewish Autonomous Oblast,3.4,11.5,11.4,0.4,0.2
+1999,Zabaykalsky Krai,1.1,11.5,5.8,0.2,0.1
+1999,Ivanovo Oblast,1.6,28.4,15.1,0.1,0.04
+1999,Republic of Ingushetia,,,,,
+1999,Irkutsk Oblast,5.6,29.1,14.7,0.9,0.4
+1999,Kabardino-Balkar Republic,1.8,12.6,8.2,0.4,0.3
+1999,Kaliningrad Oblast,3.1,27.6,15.3,1.0,0.7
+1999,Republic of Kalmykia,2.7,5.2,14.1,0.6,0.1
+1999,Kaluga Oblast,2.8,26.5,17.7,0.9,0.1
+1999,Kamchatka Krai,6.5,30.6,26.4,0.9,0.4
+1999,Karachay-Cherkess Republic,2.1,6.9,10.9,0.1,0.04
+1999,Republic of Karelia,2.4,21.0,15.0,0.3,0.1
+1999,Kemerovo Oblast,2.5,26.1,17.4,0.5,0.2
+1999,Kirov Oblast,1.5,13.1,13.6,0.3,0.1
+1999,Kostroma Oblast,1.8,27.7,17.3,1.1,0.1
+1999,Krasnodar Krai,6.8,39.6,8.2,1.0,0.3
+1999,Krasnoyarsk Krai,4.0,32.2,15.3,1.1,0.3
+1999,Republic of Crimea,,,,,
+1999,Kurgan Oblast,3.8,25.2,14.4,0.9,0.2
+1999,Kursk Oblast,1.3,30.0,4.8,0.3,0.1
+1999,Leningrad Oblast,3.0,25.6,16.5,0.9,0.2
+1999,Lipetsk Oblast,3.1,29.6,9.1,0.7,0.1
+1999,Magadan Oblast,4.8,18.7,23.2,1.7,0.1
+1999,Mari El Republic,1.8,20.8,10.8,0.3,0.04
+1999,Republic of Mordovia,1.4,15.2,11.2,0.2,0.1
+1999,Moscow,6.6,56.0,18.7,3.6,0.7
+1999,Moscow Oblast,2.3,15.8,15.8,1.1,0.3
+1999,Murmansk Oblast,4.5,27.1,17.8,1.6,0.6
+1999,Nenets Autonomous Okrug,4.6,17.4,14.9,0.6,0.3
+1999,Nizhny Novgorod Oblast,3.8,25.4,10.6,1.0,0.2
+1999,Novgorod Oblast,4.9,48.8,17.6,0.9,0.3
+1999,Novosibirsk Oblast,2.5,28.1,20.5,1.4,0.2
+1999,Omsk Oblast,7.5,36.0,16.6,1.1,0.5
+1999,Orenburg Oblast,1.6,24.3,11.2,0.9,0.1
+1999,Oryol Oblast,3.8,29.4,15.0,1.0,0.3
+1999,Penza Oblast,2.0,19.7,6.0,0.4,0.1
+1999,Perm Krai,3.2,15.4,15.8,1.3,0.3
+1999,Primorsky Krai,1.2,19.1,10.3,0.7,0.1
+1999,Pskov Oblast,6.1,18.0,7.9,0.3,0.04
+1999,Altai Republic,4.8,5.1,7.9,0.6,0.1
+1999,Komi Republic,5.9,35.7,25.9,2.5,0.6
+1999,Tuva Republic,1.8,11.8,10.9,0.3,0.4
+1999,Rostov Oblast,6.2,27.8,9.7,1.5,0.1
+1999,Ryazan Oblast,1.3,31.9,14.8,1.5,0.1
+1999,Samara Oblast,1.8,24.6,7.5,1.3,0.2
+1999,Saint Petersburg,2.6,57.4,13.0,1.7,0.6
+1999,Saratov Oblast,1.7,19.3,7.3,1.0,0.1
+1999,Sakhalin Oblast,1.6,19.4,21.0,0.4,0.1
+1999,Sverdlovsk Oblast,3.7,38.3,13.2,0.9,0.3
+1999,Sevastopol,,,,,
+1999,Republic of North Ossetia-Alania,1.7,24.1,11.0,1.5,0.1
+1999,Smolensk Oblast,3.4,53.8,16.4,0.5,0.1
+1999,Stavropol Krai,5.9,25.9,13.3,1.7,0.4
+1999,Tambov Oblast,1.5,20.6,8.9,1.1,0.2
+1999,Republic of Tatarstan,1.3,29.6,16.6,0.5,0.1
+1999,Tver Oblast,2.4,24.2,17.7,0.7,0.2
+1999,Tomsk Oblast,4.6,22.1,16.2,0.8,0.3
+1999,Tula Oblast,2.7,32.9,13.0,0.5,0.1
+1999,Tyumen Oblast,4.1,34.4,13.5,0.7,0.3
+1999,Udmurt Republic,2.3,16.7,13.9,0.6,0.2
+1999,Ulyanovsk Oblast,1.1,46.3,10.6,0.3,0.1
+1999,Khabarovsk Krai,4.6,30.0,16.4,1.1,0.4
+1999,Republic of Khakassia,2.9,48.7,15.1,1.1,0.6
+1999,Khanty–Mansi Autonomous Okrug – Yugra,4.1,34.4,13.5,0.7,0.3
+1999,Chelyabinsk Oblast,4.5,32.5,14.0,0.9,0.1
+1999,Chechen Republic,,,,,
+1999,Chuvash Republic,2.8,25.5,10.8,0.4,0.02
+1999,Chukotka Autonomous Okrug,0.4,2.3,6.7,0.6,0.1
+1999,Sakha (Yakutia) Republic,1.8,16.3,17.5,0.5,0.2
+1999,Yamalo-Nenets Autonomous Okrug,4.1,34.4,13.5,0.7,0.3
+1999,Yaroslavl Oblast,3.6,39.6,21.1,0.8,0.2
+2000,Republic of Adygea,3.1,27.4,5.4,0.6,0.1
+2000,Altai Krai,2.1,33.2,9.9,1.3,0.1
+2000,Amur Oblast,2.4,28.5,15.8,0.7,0.2
+2000,Arkhangelsk Oblast,5.5,29.3,19.2,0.9,0.5
+2000,Astrakhan Oblast,3.7,31.0,10.0,0.6,0.1
+2000,Republic of Bashkortostan,1.4,33.1,12.2,0.2,0.2
+2000,Belgorod Oblast,3.6,20.7,10.1,0.9,0.1
+2000,Bryansk Oblast,3.0,36.4,7.6,0.4,0.1
+2000,Republic of Buryatia,1.6,17.1,16.6,0.6,0.03
+2000,Vladimir Oblast,2.3,22.1,14.5,0.5,0.1
+2000,Volgograd Oblast,1.8,40.9,9.0,1.9,0.3
+2000,Vologda Oblast,3.7,33.2,19.2,0.5,0.2
+2000,Voronezh Oblast,3.4,24.8,9.1,1.2,0.2
+2000,Republic of Dagestan,3.8,1.8,1.0,0.2,0.1
+2000,Jewish Autonomous Oblast,4.8,13.4,12.2,0.5,0.1
+2000,Zabaykalsky Krai,1.9,16.4,7.0,0.3,0.1
+2000,Ivanovo Oblast,2.5,47.5,14.2,0.2,0.1
+2000,Republic of Ingushetia,,,,,
+2000,Irkutsk Oblast,6.0,39.4,15.5,1.3,0.5
+2000,Kabardino-Balkar Republic,2.5,17.3,10.5,0.6,0.4
+2000,Kaliningrad Oblast,3.2,38.4,15.8,1.3,0.8
+2000,Republic of Kalmykia,3.2,9.1,14.2,0.9,0.1
+2000,Kaluga Oblast,2.2,30.4,9.0,0.6,0.2
+2000,Kamchatka Krai,7.1,32.7,26.6,0.8,0.4
+2000,Karachay-Cherkess Republic,2.2,7.4,12.9,0.2,0.1
+2000,Republic of Karelia,2.8,24.9,17.2,0.4,0.2
+2000,Kemerovo Oblast,2.3,26.6,17.3,0.6,0.2
+2000,Kirov Oblast,1.8,15.5,12.8,0.3,0.1
+2000,Kostroma Oblast,1.3,24.0,15.2,0.3,0.1
+2000,Krasnodar Krai,7.0,42.6,8.7,1.4,0.3
+2000,Krasnoyarsk Krai,4.7,40.5,14.9,1.6,0.3
+2000,Republic of Crimea,,,,,
+2000,Kurgan Oblast,2.9,26.6,13.0,0.6,0.1
+2000,Kursk Oblast,1.6,33.0,6.1,0.5,0.1
+2000,Leningrad Oblast,3.8,37.7,14.7,1.3,0.3
+2000,Lipetsk Oblast,2.3,31.9,9.3,0.7,0.2
+2000,Magadan Oblast,4.3,24.6,23.9,1.8,0.2
+2000,Mari El Republic,1.8,21.0,8.3,0.3,0.1
+2000,Republic of Mordovia,1.4,15.9,10.9,0.3,0.1
+2000,Moscow,6.3,61.8,18.8,3.9,0.6
+2000,Moscow Oblast,3.1,22.6,17.2,0.6,0.3
+2000,Murmansk Oblast,4.4,29.9,18.8,1.7,0.6
+2000,Nenets Autonomous Okrug,5.5,29.3,19.2,0.9,0.5
+2000,Nizhny Novgorod Oblast,3.9,27.3,9.7,1.0,0.1
+2000,Novgorod Oblast,4.6,39.8,12.8,0.4,0.2
+2000,Novosibirsk Oblast,2.6,37.3,20.7,1.6,0.2
+2000,Omsk Oblast,4.6,41.5,10.3,0.6,0.3
+2000,Orenburg Oblast,1.6,31.5,9.5,0.7,0.1
+2000,Oryol Oblast,3.2,31.1,14.8,1.2,0.4
+2000,Penza Oblast,1.8,27.0,6.4,0.3,0.1
+2000,Perm Krai,4.1,30.7,20.0,1.3,0.3
+2000,Primorsky Krai,1.8,25.1,15.0,0.6,0.2
+2000,Pskov Oblast,7.1,22.0,12.9,0.5,0.1
+2000,Altai Republic,5.4,12.1,9.8,0.7,0.1
+2000,Komi Republic,4.6,35.1,27.4,1.9,0.4
+2000,Tuva Republic,1.6,24.4,11.3,0.1,0.4
+2000,Rostov Oblast,5.5,30.0,7.9,2.2,0.2
+2000,Ryazan Oblast,2.1,32.2,13.3,1.2,0.1
+2000,Samara Oblast,2.1,29.4,7.6,1.5,0.2
+2000,Saint Petersburg,4.4,68.2,14.7,2.0,0.9
+2000,Saratov Oblast,2.0,22.1,7.4,1.3,0.2
+2000,Sakhalin Oblast,2.6,21.8,18.8,0.5,0.1
+2000,Sverdlovsk Oblast,4.0,42.5,13.6,1.0,0.4
+2000,Sevastopol,,,,,
+2000,Republic of North Ossetia-Alania,2.6,19.9,9.8,1.3,0.1
+2000,Smolensk Oblast,4.9,55.3,21.2,0.8,0.2
+2000,Stavropol Krai,6.4,25.9,13.7,1.1,0.3
+2000,Tambov Oblast,2.1,22.5,11.6,1.1,0.2
+2000,Republic of Tatarstan,1.3,33.4,14.8,0.4,0.1
+2000,Tver Oblast,4.0,33.7,17.1,0.7,0.3
+2000,Tomsk Oblast,5.3,32.0,14.8,0.8,0.1
+2000,Tula Oblast,2.7,36.4,13.2,0.6,0.1
+2000,Tyumen Oblast,4.6,36.9,18.0,0.8,0.3
+2000,Udmurt Republic,1.5,20.1,13.4,0.3,0.1
+2000,Ulyanovsk Oblast,0.8,46.1,10.5,0.4,0.1
+2000,Khabarovsk Krai,4.2,31.9,15.3,0.7,0.4
+2000,Republic of Khakassia,3.0,47.9,17.0,1.4,0.6
+2000,Khanty–Mansi Autonomous Okrug – Yugra,4.6,36.9,18.0,0.8,0.3
+2000,Chelyabinsk Oblast,4.3,46.3,15.7,1.0,0.2
+2000,Chechen Republic,,,,,
+2000,Chuvash Republic,2.9,29.8,9.6,0.5,0.1
+2000,Chukotka Autonomous Okrug,1.0,5.2,6.5,1.7,0.2
+2000,Sakha (Yakutia) Republic,2.6,15.4,15.2,0.6,0.2
+2000,Yamalo-Nenets Autonomous Okrug,4.6,36.9,18.0,0.8,0.3
+2000,Yaroslavl Oblast,3.5,57.1,18.3,1.5,0.3
+2001,Republic of Adygea,3.8,22.0,7.8,0.5,0.1
+2001,Altai Krai,2.3,39.5,12.0,1.4,0.1
+2001,Amur Oblast,2.6,31.2,17.6,0.6,0.2
+2001,Arkhangelsk Oblast,7.0,47.6,23.5,1.2,0.9
+2001,Astrakhan Oblast,3.8,42.6,11.9,0.8,0.1
+2001,Republic of Bashkortostan,1.2,34.9,10.9,0.3,0.1
+2001,Belgorod Oblast,3.4,23.2,9.5,0.8,0.1
+2001,Bryansk Oblast,2.7,41.6,8.0,0.4,0.1
+2001,Republic of Buryatia,1.7,11.7,18.7,0.6,0.1
+2001,Vladimir Oblast,2.4,28.5,15.3,0.6,0.1
+2001,Volgograd Oblast,2.1,42.5,11.9,1.8,0.3
+2001,Vologda Oblast,7.8,50.5,23.0,0.5,0.3
+2001,Voronezh Oblast,3.6,37.7,9.2,1.5,0.2
+2001,Republic of Dagestan,4.6,3.3,1.8,0.4,0.1
+2001,Jewish Autonomous Oblast,5.1,17.8,12.0,0.4,0.1
+2001,Zabaykalsky Krai,3.5,23.8,8.6,0.4,0.1
+2001,Ivanovo Oblast,3.3,60.7,16.5,0.3,0.1
+2001,Republic of Ingushetia,9.9,9.5,4.0,1.3,1.5
+2001,Irkutsk Oblast,7.1,38.9,11.9,1.4,0.5
+2001,Kabardino-Balkar Republic,2.7,26.5,12.4,0.4,0.6
+2001,Kaliningrad Oblast,1.7,44.5,13.3,1.1,0.7
+2001,Republic of Kalmykia,3.4,13.9,15.4,1.3,0.1
+2001,Kaluga Oblast,2.5,34.1,12.0,0.6,0.1
+2001,Kamchatka Krai,7.4,33.6,26.7,0.9,0.4
+2001,Karachay-Cherkess Republic,2.3,9.4,13.4,0.2,0.1
+2001,Republic of Karelia,5.1,28.0,15.9,0.4,0.2
+2001,Kemerovo Oblast,2.1,28.6,18.8,0.6,0.2
+2001,Kirov Oblast,2.8,20.4,14.1,0.4,0.1
+2001,Kostroma Oblast,3.5,25.4,17.2,0.6,0.2
+2001,Krasnodar Krai,6.6,48.0,8.9,1.4,0.3
+2001,Krasnoyarsk Krai,4.9,59.6,15.4,1.5,0.6
+2001,Republic of Crimea,,,,,
+2001,Kurgan Oblast,2.9,34.2,12.2,0.6,0.2
+2001,Kursk Oblast,1.7,44.5,7.4,0.5,0.1
+2001,Leningrad Oblast,5.0,59.7,17.5,1.8,0.4
+2001,Lipetsk Oblast,2.5,42.9,9.3,0.7,0.2
+2001,Magadan Oblast,4.7,28.3,23.6,1.4,0.2
+2001,Mari El Republic,1.6,22.6,10.4,0.3,0.1
+2001,Republic of Mordovia,1.4,23.5,11.8,0.3,0.1
+2001,Moscow,5.0,78.9,19.7,4.2,0.7
+2001,Moscow Oblast,3.2,23.7,16.8,0.3,0.3
+2001,Murmansk Oblast,4.6,34.7,19.7,1.8,0.6
+2001,Nenets Autonomous Okrug,7.0,47.6,23.5,1.2,0.9
+2001,Nizhny Novgorod Oblast,4.8,34.7,9.8,0.9,0.2
+2001,Novgorod Oblast,4.6,34.7,12.6,0.4,0.2
+2001,Novosibirsk Oblast,2.7,48.4,20.6,1.3,0.3
+2001,Omsk Oblast,4.6,55.5,12.3,0.6,0.3
+2001,Orenburg Oblast,2.3,34.6,10.8,0.7,0.2
+2001,Oryol Oblast,3.4,29.9,12.0,1.6,0.3
+2001,Penza Oblast,5.1,30.1,6.8,0.4,0.1
+2001,Perm Krai,4.1,56.9,15.9,0.8,0.3
+2001,Primorsky Krai,1.5,26.5,15.2,0.6,0.1
+2001,Pskov Oblast,9.6,33.5,13.3,0.5,0.1
+2001,Altai Republic,5.7,18.7,10.6,0.9,0.1
+2001,Komi Republic,5.6,37.6,28.5,0.8,0.5
+2001,Tuva Republic,1.6,25.7,9.8,0.1,0.1
+2001,Rostov Oblast,4.1,39.9,7.1,1.8,0.2
+2001,Ryazan Oblast,2.4,40.3,13.5,1.4,0.1
+2001,Samara Oblast,1.8,33.4,8.1,1.0,0.2
+2001,Saint Petersburg,6.2,101.0,15.5,2.4,0.8
+2001,Saratov Oblast,3.0,21.7,7.6,1.2,0.2
+2001,Sakhalin Oblast,4.3,29.7,20.3,0.9,0.2
+2001,Sverdlovsk Oblast,4.4,44.6,13.7,0.9,0.4
+2001,Sevastopol,,,,,
+2001,Republic of North Ossetia-Alania,5.6,15.7,8.9,1.2,0.1
+2001,Smolensk Oblast,6.6,71.3,23.0,1.0,0.2
+2001,Stavropol Krai,5.9,30.5,12.8,1.2,0.3
+2001,Tambov Oblast,2.5,22.8,14.0,1.5,0.3
+2001,Republic of Tatarstan,1.8,41.9,14.6,0.5,0.1
+2001,Tver Oblast,5.0,35.4,18.4,1.4,0.1
+2001,Tomsk Oblast,5.6,36.3,16.5,0.9,0.2
+2001,Tula Oblast,3.3,40.1,14.1,0.6,0.2
+2001,Tyumen Oblast,5.2,49.0,20.5,0.9,0.5
+2001,Udmurt Republic,2.1,27.0,14.1,0.3,0.1
+2001,Ulyanovsk Oblast,1.1,47.7,9.6,0.3,0.2
+2001,Khabarovsk Krai,4.3,38.4,21.2,0.5,0.3
+2001,Republic of Khakassia,3.3,53.6,15.6,1.4,0.6
+2001,Khanty–Mansi Autonomous Okrug – Yugra,5.2,49.0,20.5,0.9,0.5
+2001,Chelyabinsk Oblast,4.4,45.2,16.2,1.2,0.2
+2001,Chechen Republic,,,,,
+2001,Chuvash Republic,3.0,32.2,10.6,0.5,0.1
+2001,Chukotka Autonomous Okrug,1.4,11.0,9.8,1.9,0.1
+2001,Sakha (Yakutia) Republic,2.8,15.5,14.6,0.8,0.2
+2001,Yamalo-Nenets Autonomous Okrug,5.2,49.0,20.5,0.9,0.5
+2001,Yaroslavl Oblast,4.3,71.1,18.6,1.6,0.4
+2002,Republic of Adygea,4.4,30.4,7.9,0.7,0.3
+2002,Altai Krai,1.6,42.8,11.4,1.1,0.1
+2002,Amur Oblast,2.3,35.4,17.9,0.5,0.2
+2002,Arkhangelsk Oblast,8.1,76.1,29.5,1.5,1.2
+2002,Astrakhan Oblast,4.1,44.0,12.0,0.8,0.2
+2002,Republic of Bashkortostan,1.7,38.1,10.4,0.2,0.1
+2002,Belgorod Oblast,3.3,23.2,9.4,0.9,0.1
+2002,Bryansk Oblast,3.3,38.9,8.5,0.4,0.1
+2002,Republic of Buryatia,2.3,21.0,19.9,0.6,0.1
+2002,Vladimir Oblast,2.8,41.5,15.6,0.8,0.2
+2002,Volgograd Oblast,2.4,43.9,13.2,1.6,0.4
+2002,Vologda Oblast,11.7,51.9,22.2,0.4,0.5
+2002,Voronezh Oblast,2.8,41.9,10.5,1.3,0.2
+2002,Republic of Dagestan,2.7,9.6,4.9,0.6,0.2
+2002,Jewish Autonomous Oblast,4.1,26.8,7.6,0.4,0.1
+2002,Zabaykalsky Krai,4.7,31.3,10.9,0.5,0.1
+2002,Ivanovo Oblast,3.7,61.2,16.7,0.6,0.2
+2002,Republic of Ingushetia,7.5,8.7,4.3,0.8,0.8
+2002,Irkutsk Oblast,8.1,47.8,10.8,1.1,0.4
+2002,Kabardino-Balkar Republic,3.7,31.5,13.9,0.7,0.7
+2002,Kaliningrad Oblast,2.4,64.5,17.3,1.3,0.9
+2002,Republic of Kalmykia,4.1,20.9,15.0,1.5,0.1
+2002,Kaluga Oblast,2.6,50.6,12.2,0.8,0.2
+2002,Kamchatka Krai,7.3,35.3,25.9,1.2,0.5
+2002,Karachay-Cherkess Republic,2.7,13.2,14.3,0.2,0.1
+2002,Republic of Karelia,9.3,33.6,12.4,0.4,0.2
+2002,Kemerovo Oblast,3.0,30.8,20.2,0.9,0.3
+2002,Kirov Oblast,4.5,27.3,14.9,0.5,0.1
+2002,Kostroma Oblast,3.2,27.1,16.9,0.5,0.1
+2002,Krasnodar Krai,7.9,50.1,7.9,1.3,0.5
+2002,Krasnoyarsk Krai,5.2,67.4,15.3,1.4,0.6
+2002,Republic of Crimea,,,,,
+2002,Kurgan Oblast,2.7,37.9,11.7,0.5,0.1
+2002,Kursk Oblast,1.8,53.8,6.7,0.5,0.1
+2002,Leningrad Oblast,7.1,65.3,20.4,2.3,0.6
+2002,Lipetsk Oblast,2.5,49.5,10.0,0.7,0.2
+2002,Magadan Oblast,4.0,33.0,18.9,1.4,0.2
+2002,Mari El Republic,2.9,23.8,11.7,0.4,0.1
+2002,Republic of Mordovia,2.5,22.0,10.0,0.3,0.1
+2002,Moscow,4.8,85.7,20.8,4.0,0.9
+2002,Moscow Oblast,3.6,29.4,16.9,0.7,0.4
+2002,Murmansk Oblast,5.3,40.0,20.9,1.9,0.6
+2002,Nenets Autonomous Okrug,8.1,76.1,29.5,1.5,1.2
+2002,Nizhny Novgorod Oblast,5.2,39.8,10.6,1.0,0.2
+2002,Novgorod Oblast,5.0,37.1,13.1,0.5,0.2
+2002,Novosibirsk Oblast,3.0,47.7,19.9,1.0,0.3
+2002,Omsk Oblast,4.9,84.2,13.9,0.6,0.3
+2002,Orenburg Oblast,2.3,34.2,10.9,0.7,0.2
+2002,Oryol Oblast,3.7,29.4,11.1,1.2,0.3
+2002,Penza Oblast,5.7,32.3,6.9,0.4,0.1
+2002,Perm Krai,5.6,58.2,17.4,0.8,0.4
+2002,Primorsky Krai,1.6,28.3,16.0,0.6,0.1
+2002,Pskov Oblast,10.3,46.3,10.8,0.6,0.1
+2002,Altai Republic,5.7,30.9,10.1,1.0,0.1
+2002,Komi Republic,7.6,33.9,28.4,0.9,0.5
+2002,Tuva Republic,2.0,23.3,13.5,0.2,0.1
+2002,Rostov Oblast,4.0,44.7,7.0,1.5,0.3
+2002,Ryazan Oblast,2.8,43.2,12.4,1.3,0.1
+2002,Samara Oblast,1.8,38.6,8.0,1.2,0.2
+2002,Saint Petersburg,6.3,104.6,17.2,2.6,0.9
+2002,Saratov Oblast,3.2,28.1,9.2,0.9,0.2
+2002,Sakhalin Oblast,5.3,37.5,24.5,1.6,0.5
+2002,Sverdlovsk Oblast,6.1,52.1,15.4,1.0,0.5
+2002,Sevastopol,,,,,
+2002,Republic of North Ossetia-Alania,1.0,14.9,8.5,1.2,0.1
+2002,Smolensk Oblast,8.7,96.2,25.4,1.4,0.2
+2002,Stavropol Krai,6.0,32.7,11.7,1.2,0.4
+2002,Tambov Oblast,2.5,27.9,13.9,1.4,0.3
+2002,Republic of Tatarstan,2.2,29.1,15.4,0.6,0.1
+2002,Tver Oblast,6.1,40.0,21.2,1.2,0.2
+2002,Tomsk Oblast,7.9,36.5,16.5,0.9,0.3
+2002,Tula Oblast,3.5,46.3,13.2,0.7,0.2
+2002,Tyumen Oblast,5.8,77.0,23.3,1.0,0.6
+2002,Udmurt Republic,2.7,29.4,13.7,0.4,0.1
+2002,Ulyanovsk Oblast,2.1,44.8,9.1,0.5,0.2
+2002,Khabarovsk Krai,4.5,31.8,17.1,0.7,0.3
+2002,Republic of Khakassia,4.4,56.3,15.8,1.5,0.6
+2002,Khanty–Mansi Autonomous Okrug – Yugra,5.8,77.0,23.3,1.0,0.6
+2002,Chelyabinsk Oblast,4.1,55.7,16.8,1.1,0.5
+2002,Chechen Republic,,,,,
+2002,Chuvash Republic,3.0,31.7,11.1,0.5,0.2
+2002,Chukotka Autonomous Okrug,1.9,6.4,13.3,1.6,0.3
+2002,Sakha (Yakutia) Republic,3.6,16.3,16.1,1.1,0.3
+2002,Yamalo-Nenets Autonomous Okrug,5.8,77.0,23.3,1.0,0.6
+2002,Yaroslavl Oblast,4.5,90.1,20.3,1.0,0.3
+2003,Republic of Adygea,4.3,36.2,8.0,1.0,0.5
+2003,Altai Krai,1.7,47.7,11.5,1.1,0.1
+2003,Amur Oblast,5.3,40.4,17.4,0.6,0.2
+2003,Arkhangelsk Oblast,9.2,109.0,31.9,1.7,1.3
+2003,Astrakhan Oblast,4.5,48.3,12.4,0.9,0.2
+2003,Republic of Bashkortostan,1.5,25.0,8.3,0.3,0.2
+2003,Belgorod Oblast,2.7,25.8,9.7,0.9,0.1
+2003,Bryansk Oblast,4.0,33.9,8.7,0.5,0.1
+2003,Republic of Buryatia,4.2,32.8,13.9,0.4,0.1
+2003,Vladimir Oblast,3.2,43.7,15.4,0.9,0.2
+2003,Volgograd Oblast,2.7,46.7,13.2,1.8,0.5
+2003,Vologda Oblast,18.1,61.7,24.6,0.4,0.6
+2003,Voronezh Oblast,3.1,38.2,10.8,1.1,0.3
+2003,Republic of Dagestan,2.9,9.7,8.7,1.2,0.2
+2003,Jewish Autonomous Oblast,5.1,39.0,6.4,0.5,0.2
+2003,Zabaykalsky Krai,5.9,38.1,12.4,0.6,0.1
+2003,Ivanovo Oblast,5.2,61.6,15.4,0.6,0.2
+2003,Republic of Ingushetia,6.0,8.9,4.6,0.8,0.5
+2003,Irkutsk Oblast,7.4,51.5,10.2,1.0,0.3
+2003,Kabardino-Balkar Republic,4.4,39.4,12.8,0.8,0.7
+2003,Kaliningrad Oblast,11.3,80.8,20.0,1.4,1.1
+2003,Republic of Kalmykia,4.3,24.4,15.4,1.4,0.1
+2003,Kaluga Oblast,3.0,71.2,9.0,0.9,0.3
+2003,Kamchatka Krai,7.4,39.1,25.1,1.8,1.2
+2003,Karachay-Cherkess Republic,3.7,14.9,14.9,0.2,0.2
+2003,Republic of Karelia,13.5,31.1,14.2,0.6,0.2
+2003,Kemerovo Oblast,4.2,36.9,20.1,1.1,0.3
+2003,Kirov Oblast,7.2,33.4,13.5,0.6,0.1
+2003,Kostroma Oblast,4.2,28.0,16.5,0.5,0.1
+2003,Krasnodar Krai,8.7,53.3,7.9,1.4,0.4
+2003,Krasnoyarsk Krai,5.6,72.3,15.5,1.3,0.6
+2003,Republic of Crimea,,,,,
+2003,Kurgan Oblast,3.5,42.6,9.2,0.4,0.1
+2003,Kursk Oblast,3.3,67.8,7.5,1.1,0.3
+2003,Leningrad Oblast,8.1,66.3,18.5,2.2,0.6
+2003,Lipetsk Oblast,2.7,54.9,10.1,0.7,0.2
+2003,Magadan Oblast,4.8,43.2,18.4,1.8,0.4
+2003,Mari El Republic,4.4,27.1,12.3,0.4,0.2
+2003,Republic of Mordovia,3.5,25.9,9.4,0.3,0.1
+2003,Moscow,6.2,89.1,23.0,4.1,0.9
+2003,Moscow Oblast,4.0,29.6,20.5,0.8,0.4
+2003,Murmansk Oblast,6.0,41.3,21.3,2.1,0.7
+2003,Nenets Autonomous Okrug,9.2,109.0,31.9,1.7,1.3
+2003,Nizhny Novgorod Oblast,5.8,44.8,11.1,1.1,0.2
+2003,Novgorod Oblast,5.5,34.2,13.2,0.4,0.2
+2003,Novosibirsk Oblast,3.5,61.5,20.4,1.0,0.3
+2003,Omsk Oblast,3.9,97.3,14.6,0.5,0.3
+2003,Orenburg Oblast,2.5,28.7,8.5,0.6,0.2
+2003,Oryol Oblast,3.8,32.8,10.6,1.4,0.3
+2003,Penza Oblast,7.7,34.2,7.8,0.6,0.1
+2003,Perm Krai,6.8,55.7,16.5,0.9,0.4
+2003,Primorsky Krai,1.7,28.5,16.2,0.7,0.2
+2003,Pskov Oblast,13.5,52.9,10.9,0.6,0.1
+2003,Altai Republic,6.4,25.9,10.6,1.0,0.1
+2003,Komi Republic,8.3,44.4,29.7,0.8,0.5
+2003,Tuva Republic,2.1,25.0,14.7,0.2,0.1
+2003,Rostov Oblast,4.4,51.1,6.9,1.5,0.3
+2003,Ryazan Oblast,2.9,46.5,12.5,1.2,0.2
+2003,Samara Oblast,2.1,43.5,7.9,1.1,0.3
+2003,Saint Petersburg,6.6,105.6,14.3,2.8,1.0
+2003,Saratov Oblast,3.0,41.3,8.3,0.8,0.2
+2003,Sakhalin Oblast,5.2,38.0,23.2,1.4,0.7
+2003,Sverdlovsk Oblast,7.2,56.9,15.2,1.0,0.5
+2003,Sevastopol,,,,,
+2003,Republic of North Ossetia-Alania,0.2,14.5,7.6,1.1,0.1
+2003,Smolensk Oblast,8.8,92.3,25.6,1.5,0.3
+2003,Stavropol Krai,6.1,41.1,10.0,1.2,0.5
+2003,Tambov Oblast,2.4,36.0,14.5,1.2,0.3
+2003,Republic of Tatarstan,2.7,42.3,14.9,0.7,0.2
+2003,Tver Oblast,6.8,41.8,19.3,1.7,0.2
+2003,Tomsk Oblast,7.8,43.3,17.4,1.5,0.4
+2003,Tula Oblast,3.5,41.1,12.6,0.6,0.2
+2003,Tyumen Oblast,5.0,93.3,18.6,1.2,0.5
+2003,Udmurt Republic,3.8,34.2,12.9,0.3,0.1
+2003,Ulyanovsk Oblast,4.1,42.5,10.5,0.7,0.3
+2003,Khabarovsk Krai,3.8,47.4,15.2,0.7,0.4
+2003,Republic of Khakassia,6.4,61.2,14.8,1.6,0.5
+2003,Khanty–Mansi Autonomous Okrug – Yugra,5.0,93.3,18.6,1.2,0.5
+2003,Chelyabinsk Oblast,4.7,65.1,16.4,1.2,0.7
+2003,Chechen Republic,,,,,
+2003,Chuvash Republic,3.6,33.8,12.5,0.5,0.2
+2003,Chukotka Autonomous Okrug,3.8,12.3,12.3,1.6,0.9
+2003,Sakha (Yakutia) Republic,4.7,25.0,16.0,1.2,0.3
+2003,Yamalo-Nenets Autonomous Okrug,5.0,93.3,18.6,1.2,0.5
+2003,Yaroslavl Oblast,3.8,62.3,18.6,0.5,0.1
+2004,Republic of Adygea,4.1,27.5,8.6,1.0,0.3
+2004,Altai Krai,2.0,52.4,14.2,1.3,0.2
+2004,Amur Oblast,5.2,44.8,18.1,0.6,0.2
+2004,Arkhangelsk Oblast,7.0,51.8,18.5,1.3,0.5
+2004,Astrakhan Oblast,4.8,58.0,12.9,0.9,0.2
+2004,Republic of Bashkortostan,1.2,35.4,9.2,0.3,0.2
+2004,Belgorod Oblast,3.1,35.1,10.0,1.1,0.1
+2004,Bryansk Oblast,5.7,32.5,8.6,0.5,0.1
+2004,Republic of Buryatia,6.3,35.7,12.2,0.4,0.1
+2004,Vladimir Oblast,3.7,54.0,17.3,1.0,0.2
+2004,Volgograd Oblast,3.3,55.3,12.5,1.9,0.5
+2004,Vologda Oblast,14.2,85.1,26.7,0.6,0.7
+2004,Voronezh Oblast,3.4,41.2,12.6,1.3,0.4
+2004,Republic of Dagestan,2.8,6.6,9.5,1.5,0.3
+2004,Jewish Autonomous Oblast,4.4,51.1,7.4,0.3,0.2
+2004,Zabaykalsky Krai,15.7,190.4,40.6,3.0,1.8
+2004,Ivanovo Oblast,8.0,68.1,17.3,0.7,0.4
+2004,Republic of Ingushetia,6.4,7.4,3.6,0.8,0.8
+2004,Irkutsk Oblast,5.5,54.7,22.7,1.5,0.7
+2004,Kabardino-Balkar Republic,4.0,43.7,12.3,0.8,0.7
+2004,Kaliningrad Oblast,12.7,84.2,20.0,1.4,1.0
+2004,Republic of Kalmykia,4.3,24.4,15.3,1.4,0.2
+2004,Kaluga Oblast,4.0,86.7,11.4,1.3,0.3
+2004,Kamchatka Krai,7.5,49.2,22.2,2.0,1.1
+2004,Karachay-Cherkess Republic,4.2,19.6,14.9,0.3,0.3
+2004,Republic of Karelia,16.9,33.2,14.0,0.7,0.5
+2004,Kemerovo Oblast,3.7,68.6,21.2,1.0,0.3
+2004,Kirov Oblast,9.6,43.6,12.8,0.7,0.1
+2004,Kostroma Oblast,5.9,32.7,18.0,0.5,0.1
+2004,Krasnodar Krai,8.8,58.3,8.0,1.1,0.3
+2004,Krasnoyarsk Krai,5.3,47.7,9.2,0.9,0.3
+2004,Republic of Crimea,,,,,
+2004,Kurgan Oblast,4.5,43.5,8.3,0.4,0.1
+2004,Kursk Oblast,6.5,90.9,7.2,0.8,0.3
+2004,Leningrad Oblast,10.0,68.5,20.4,3.7,0.7
+2004,Lipetsk Oblast,2.8,56.5,10.2,0.7,0.2
+2004,Magadan Oblast,5.9,39.4,16.8,1.9,0.5
+2004,Mari El Republic,5.7,27.6,12.0,0.5,0.1
+2004,Republic of Mordovia,3.6,32.6,9.8,0.4,0.1
+2004,Moscow,6.1,99.1,24.0,3.8,1.0
+2004,Moscow Oblast,5.7,30.5,21.8,0.8,0.8
+2004,Murmansk Oblast,6.2,45.8,21.7,2.2,0.7
+2004,Nenets Autonomous Okrug,7.0,51.8,18.5,1.3,0.5
+2004,Nizhny Novgorod Oblast,6.2,51.0,11.9,1.2,0.2
+2004,Novgorod Oblast,5.9,35.4,13.7,0.5,0.2
+2004,Novosibirsk Oblast,2.9,77.5,11.5,0.3,0.2
+2004,Omsk Oblast,4.0,26.6,8.9,0.7,0.3
+2004,Orenburg Oblast,3.0,35.6,8.6,0.6,0.2
+2004,Oryol Oblast,3.5,36.9,8.4,1.1,0.3
+2004,Penza Oblast,9.1,38.2,6.9,0.6,0.2
+2004,Perm Krai,8.3,68.1,16.0,1.5,0.7
+2004,Primorsky Krai,2.8,45.4,13.8,1.2,0.3
+2004,Pskov Oblast,17.5,67.9,10.2,0.7,0.2
+2004,Altai Republic,6.7,25.4,11.2,1.1,0.1
+2004,Komi Republic,10.3,76.2,28.1,1.1,0.5
+2004,Tuva Republic,2.1,25.8,15.2,0.2,0.0
+2004,Rostov Oblast,3.8,58.8,6.9,1.1,0.3
+2004,Ryazan Oblast,3.2,54.9,10.0,1.2,0.2
+2004,Samara Oblast,2.0,50.1,8.4,1.1,0.2
+2004,Saint Petersburg,4.7,103.9,13.9,2.5,0.8
+2004,Saratov Oblast,3.2,50.3,8.8,0.9,0.1
+2004,Sakhalin Oblast,5.1,36.3,20.3,1.5,0.8
+2004,Sverdlovsk Oblast,7.7,75.9,15.9,1.0,0.6
+2004,Sevastopol,,,,,
+2004,Republic of North Ossetia-Alania,2.3,15.8,5.3,0.7,0.1
+2004,Smolensk Oblast,7.9,84.5,24.5,1.5,0.3
+2004,Stavropol Krai,6.2,46.8,7.8,1.3,0.5
+2004,Tambov Oblast,1.9,49.4,15.4,1.2,0.3
+2004,Republic of Tatarstan,3.4,42.9,13.7,0.7,0.2
+2004,Tver Oblast,8.4,51.7,20.4,2.0,0.3
+2004,Tomsk Oblast,7.2,47.9,13.4,0.7,0.1
+2004,Tula Oblast,4.6,40.6,12.1,0.6,0.2
+2004,Tyumen Oblast,4.9,94.5,18.6,1.0,0.5
+2004,Udmurt Republic,5.4,36.4,12.4,0.4,0.2
+2004,Ulyanovsk Oblast,5.5,45.3,10.4,0.8,0.3
+2004,Khabarovsk Krai,4.3,53.4,14.6,0.9,0.4
+2004,Republic of Khakassia,8.5,74.5,13.8,1.9,0.8
+2004,Khanty–Mansi Autonomous Okrug – Yugra,4.9,94.5,18.6,1.0,0.5
+2004,Chelyabinsk Oblast,6.1,81.0,17.5,1.3,0.8
+2004,Chechen Republic,,,,,
+2004,Chuvash Republic,4.4,39.7,10.9,0.5,0.2
+2004,Chukotka Autonomous Okrug,3.4,10.8,12.4,1.9,1.1
+2004,Sakha (Yakutia) Republic,5.2,30.9,15.0,1.2,0.3
+2004,Yamalo-Nenets Autonomous Okrug,4.9,94.5,18.6,1.0,0.5
+2004,Yaroslavl Oblast,3.9,63.6,18.9,0.4,0.1
+2005,Republic of Adygea,4.4,29.7,10.4,1.1,0.4
+2005,Altai Krai,2.0,58.6,10.0,1.1,0.2
+2005,Amur Oblast,5.8,48.6,20.8,0.7,0.2
+2005,Arkhangelsk Oblast,7.6,45.6,17.6,1.3,0.6
+2005,Astrakhan Oblast,4.2,61.9,11.0,0.8,0.2
+2005,Republic of Bashkortostan,2.2,43.1,10.0,0.6,0.2
+2005,Belgorod Oblast,2.9,43.6,11.1,1.2,0.1
+2005,Bryansk Oblast,6.1,33.6,8.6,0.6,0.2
+2005,Republic of Buryatia,5.2,31.4,13.5,0.4,0.1
+2005,Vladimir Oblast,3.4,50.6,16.9,1.3,0.3
+2005,Volgograd Oblast,3.5,53.4,11.5,2.0,0.4
+2005,Vologda Oblast,10.6,89.2,21.9,0.6,0.7
+2005,Voronezh Oblast,3.5,48.0,13.8,1.4,0.3
+2005,Republic of Dagestan,2.4,10.4,10.8,1.5,0.3
+2005,Jewish Autonomous Oblast,3.7,59.1,7.1,0.4,0.1
+2005,Zabaykalsky Krai,16.3,202.1,31.0,3.0,1.2
+2005,Ivanovo Oblast,9.0,76.6,12.5,1.0,0.4
+2005,Republic of Ingushetia,0.2,0.8,0.8,0.1,
+2005,Irkutsk Oblast,7.0,58.4,23.0,1.7,0.9
+2005,Kabardino-Balkar Republic,3.3,31.7,10.4,1.1,0.6
+2005,Kaliningrad Oblast,11.0,70.5,15.9,1.5,1.0
+2005,Republic of Kalmykia,4.9,25.1,7.8,1.6,0.2
+2005,Kaluga Oblast,3.8,64.1,13.9,1.6,0.3
+2005,Kamchatka Krai,8.6,50.5,22.8,2.1,1.4
+2005,Karachay-Cherkess Republic,4.6,20.9,5.3,0.4,0.4
+2005,Republic of Karelia,15.0,36.2,14.9,0.7,0.5
+2005,Kemerovo Oblast,4.4,77.5,19.3,1.4,0.4
+2005,Kirov Oblast,9.7,56.2,12.8,0.7,0.2
+2005,Kostroma Oblast,5.7,38.2,19.7,0.5,0.1
+2005,Krasnodar Krai,8.9,60.4,8.1,1.1,0.3
+2005,Krasnoyarsk Krai,4.8,59.6,9.8,1.0,0.3
+2005,Republic of Crimea,,,,,
+2005,Kurgan Oblast,4.8,45.9,7.4,0.6,0.1
+2005,Kursk Oblast,7.4,72.5,7.9,1.5,0.3
+2005,Leningrad Oblast,10.9,66.7,23.2,3.9,0.8
+2005,Lipetsk Oblast,3.1,57.1,10.5,0.8,0.2
+2005,Magadan Oblast,6.7,40.2,16.5,2.0,0.7
+2005,Mari El Republic,5.4,28.2,12.1,0.5,0.1
+2005,Republic of Mordovia,5.2,37.0,9.9,0.4,0.1
+2005,Moscow,6.4,108.5,24.2,3.7,1.0
+2005,Moscow Oblast,7.3,32.3,19.8,1.1,1.1
+2005,Murmansk Oblast,6.9,49.3,21.9,2.1,0.7
+2005,Nenets Autonomous Okrug,7.6,45.6,17.6,1.3,0.6
+2005,Nizhny Novgorod Oblast,6.9,60.1,11.9,1.4,0.3
+2005,Novgorod Oblast,6.1,36.4,13.5,0.4,0.2
+2005,Novosibirsk Oblast,2.6,81.8,7.8,0.3,0.2
+2005,Omsk Oblast,4.0,28.2,9.2,0.7,0.3
+2005,Orenburg Oblast,3.2,39.0,9.2,0.7,0.3
+2005,Oryol Oblast,4.1,39.7,8.0,1.3,0.3
+2005,Penza Oblast,10.2,54.3,7.7,1.0,0.2
+2005,Perm Krai,8.2,70.1,12.1,0.9,0.4
+2005,Primorsky Krai,5.2,53.7,15.9,1.6,0.6
+2005,Pskov Oblast,12.8,63.0,9.8,0.9,0.2
+2005,Altai Republic,6.0,27.1,11.7,1.2,0.1
+2005,Komi Republic,9.6,70.7,26.7,1.2,0.6
+2005,Tuva Republic,2.7,29.0,16.2,0.5,0.1
+2005,Rostov Oblast,3.8,58.7,6.7,1.3,0.4
+2005,Ryazan Oblast,4.2,57.6,9.3,1.2,0.2
+2005,Samara Oblast,3.5,51.1,10.2,0.9,0.3
+2005,Saint Petersburg,10.3,104.8,16.2,2.4,1.1
+2005,Saratov Oblast,3.7,44.1,9.6,0.9,0.2
+2005,Sakhalin Oblast,6.9,39.5,19.1,2.2,1.0
+2005,Sverdlovsk Oblast,8.5,80.5,17.3,1.0,0.6
+2005,Sevastopol,,,,,
+2005,Republic of North Ossetia-Alania,2.2,16.0,3.4,0.5,0.1
+2005,Smolensk Oblast,7.4,78.9,17.7,1.6,0.3
+2005,Stavropol Krai,6.8,60.6,8.0,1.5,0.5
+2005,Tambov Oblast,1.7,56.5,9.8,1.5,0.2
+2005,Republic of Tatarstan,3.7,46.2,13.2,0.9,0.2
+2005,Tver Oblast,7.4,52.5,19.8,2.2,0.3
+2005,Tomsk Oblast,8.0,51.4,13.7,0.7,0.1
+2005,Tula Oblast,4.6,41.8,11.0,0.7,0.2
+2005,Tyumen Oblast,4.2,101.1,18.9,0.7,0.5
+2005,Udmurt Republic,5.9,41.9,12.2,0.5,0.2
+2005,Ulyanovsk Oblast,5.2,32.6,11.2,0.8,0.3
+2005,Khabarovsk Krai,4.9,70.5,15.6,1.0,0.5
+2005,Republic of Khakassia,12.2,73.6,16.5,2.3,0.8
+2005,Khanty–Mansi Autonomous Okrug – Yugra,4.2,101.1,18.9,0.7,0.5
+2005,Chelyabinsk Oblast,8.0,90.9,19.5,1.5,0.8
+2005,Chechen Republic,,,,,
+2005,Chuvash Republic,4.8,37.6,11.3,0.5,0.2
+2005,Chukotka Autonomous Okrug,4.0,9.1,11.1,1.6,0.7
+2005,Sakha (Yakutia) Republic,5.8,34.4,14.0,1.3,0.4
+2005,Yamalo-Nenets Autonomous Okrug,4.2,101.1,18.9,0.7,0.5
+2005,Yaroslavl Oblast,5.5,62.7,14.5,0.5,0.2
+2006,Republic of Adygea,3.8,32.4,8.1,0.7,0.3
+2006,Altai Krai,2.2,50.2,9.7,1.0,0.2
+2006,Amur Oblast,5.9,54.8,19.3,0.8,0.3
+2006,Arkhangelsk Oblast,8.6,43.1,16.9,1.4,0.7
+2006,Astrakhan Oblast,3.9,59.8,9.6,0.7,0.2
+2006,Republic of Bashkortostan,2.6,68.4,10.6,0.7,0.2
+2006,Belgorod Oblast,2.7,46.5,12.4,1.4,0.1
+2006,Bryansk Oblast,7.5,46.3,10.9,0.9,0.2
+2006,Republic of Buryatia,5.1,45.2,13.0,0.5,0.1
+2006,Vladimir Oblast,4.4,51.4,15.3,1.3,0.3
+2006,Volgograd Oblast,3.3,60.3,9.5,1.9,0.4
+2006,Vologda Oblast,7.7,85.2,17.5,0.8,0.6
+2006,Voronezh Oblast,3.7,62.3,11.1,1.4,0.4
+2006,Republic of Dagestan,2.9,6.9,11.7,1.3,0.4
+2006,Jewish Autonomous Oblast,3.7,56.3,7.5,0.4,0.1
+2006,Zabaykalsky Krai,13.7,207.3,31.7,3.1,1.3
+2006,Ivanovo Oblast,10.7,99.9,11.1,1.0,0.4
+2006,Republic of Ingushetia,0.3,0.9,1.0,0.1,
+2006,Irkutsk Oblast,7.2,68.4,23.0,1.5,1.0
+2006,Kabardino-Balkar Republic,2.5,38.1,6.6,1.2,0.5
+2006,Kaliningrad Oblast,11.6,82.4,16.9,1.4,1.0
+2006,Republic of Kalmykia,4.9,34.0,7.8,1.6,0.2
+2006,Kaluga Oblast,5.9,96.6,11.3,3.0,0.4
+2006,Kamchatka Krai,8.0,69.1,20.4,2.9,1.2
+2006,Karachay-Cherkess Republic,3.0,22.1,5.6,0.4,0.4
+2006,Republic of Karelia,14.7,40.9,15.0,0.8,0.5
+2006,Kemerovo Oblast,4.3,87.8,19.7,1.3,0.4
+2006,Kirov Oblast,9.5,66.8,12.9,0.9,0.2
+2006,Kostroma Oblast,5.6,32.4,16.9,0.6,0.2
+2006,Krasnodar Krai,8.3,59.3,7.2,1.1,0.5
+2006,Krasnoyarsk Krai,4.4,65.9,9.6,1.0,0.3
+2006,Republic of Crimea,,,,,
+2006,Kurgan Oblast,5.0,56.9,6.9,0.6,0.2
+2006,Kursk Oblast,5.4,81.4,7.2,1.3,0.3
+2006,Leningrad Oblast,9.6,79.3,19.4,2.2,0.9
+2006,Lipetsk Oblast,3.4,62.3,10.4,0.8,0.2
+2006,Magadan Oblast,6.6,42.4,16.3,2.5,0.7
+2006,Mari El Republic,6.3,28.5,12.9,0.7,0.2
+2006,Republic of Mordovia,5.5,46.1,10.3,0.4,0.1
+2006,Moscow,5.9,111.0,23.8,4.2,1.2
+2006,Moscow Oblast,6.5,38.7,21.2,1.5,1.3
+2006,Murmansk Oblast,8.3,51.2,19.3,2.0,0.8
+2006,Nenets Autonomous Okrug,8.6,43.1,16.9,1.4,0.7
+2006,Nizhny Novgorod Oblast,7.7,65.8,14.1,1.7,0.3
+2006,Novgorod Oblast,6.4,41.6,15.0,0.4,0.2
+2006,Novosibirsk Oblast,2.7,84.9,7.3,0.3,0.2
+2006,Omsk Oblast,3.7,30.4,7.1,0.6,0.3
+2006,Orenburg Oblast,3.3,46.4,10.3,0.8,0.3
+2006,Oryol Oblast,3.9,44.7,7.7,1.3,0.3
+2006,Penza Oblast,8.7,56.3,6.7,0.8,0.1
+2006,Perm Krai,8.1,89.2,12.1,1.1,0.5
+2006,Primorsky Krai,4.6,59.6,14.8,1.7,0.6
+2006,Pskov Oblast,11.8,71.6,10.0,0.9,0.2
+2006,Altai Republic,4.0,32.4,9.5,0.8,0.1
+2006,Komi Republic,9.3,67.2,18.6,1.3,0.6
+2006,Tuva Republic,1.8,49.2,11.6,0.3,0.1
+2006,Rostov Oblast,3.3,57.3,5.6,1.3,0.4
+2006,Ryazan Oblast,4.0,58.1,9.3,1.3,0.2
+2006,Samara Oblast,3.8,60.8,9.3,1.3,0.3
+2006,Saint Petersburg,7.6,125.3,16.4,2.4,1.4
+2006,Saratov Oblast,4.0,57.8,8.8,0.8,0.2
+2006,Sakhalin Oblast,6.2,54.5,17.1,1.9,1.1
+2006,Sverdlovsk Oblast,8.8,96.1,19.7,0.9,0.6
+2006,Sevastopol,,,,,
+2006,Republic of North Ossetia-Alania,2.5,17.5,3.8,0.7,0.1
+2006,Smolensk Oblast,7.4,66.2,17.8,1.8,0.3
+2006,Stavropol Krai,7.3,72.0,6.3,1.4,0.6
+2006,Tambov Oblast,2.0,57.9,9.7,1.3,0.2
+2006,Republic of Tatarstan,3.1,68.3,13.6,0.8,0.2
+2006,Tver Oblast,6.4,64.6,18.1,2.4,0.4
+2006,Tomsk Oblast,6.3,61.2,13.4,0.6,0.1
+2006,Tula Oblast,5.0,43.7,8.6,1.2,0.3
+2006,Tyumen Oblast,3.0,106.6,19.8,0.6,0.4
+2006,Udmurt Republic,6.8,51.3,13.4,0.6,0.2
+2006,Ulyanovsk Oblast,4.5,49.5,7.9,0.9,0.4
+2006,Khabarovsk Krai,4.3,85.7,14.4,1.4,0.6
+2006,Republic of Khakassia,12.4,90.1,16.7,2.1,0.7
+2006,Khanty–Mansi Autonomous Okrug – Yugra,3.0,106.6,19.8,0.6,0.4
+2006,Chelyabinsk Oblast,8.2,103.9,16.0,1.5,0.9
+2006,Chechen Republic,,,,,
+2006,Chuvash Republic,4.6,46.0,14.0,0.9,0.2
+2006,Chukotka Autonomous Okrug,5.5,11.0,17.0,2.1,0.7
+2006,Sakha (Yakutia) Republic,6.3,39.4,12.9,1.1,0.4
+2006,Yamalo-Nenets Autonomous Okrug,3.0,106.6,19.8,0.6,0.4
+2006,Yaroslavl Oblast,5.7,66.8,14.7,0.6,0.3
+2007,Republic of Adygea,4.1,31.6,6.8,0.7,0.5
+2007,Altai Krai,2.5,52.8,6.9,1.2,0.2
+2007,Amur Oblast,5.7,64.6,17.3,1.0,0.3
+2007,Arkhangelsk Oblast,10.1,40.3,15.6,1.6,0.8
+2007,Astrakhan Oblast,4.1,64.0,9.6,0.9,0.3
+2007,Republic of Bashkortostan,3.0,68.7,11.1,0.9,0.2
+2007,Belgorod Oblast,4.5,55.6,11.0,1.6,0.2
+2007,Bryansk Oblast,7.5,60.4,9.6,1.1,0.2
+2007,Republic of Buryatia,6.2,39.4,14.2,0.5,0.1
+2007,Vladimir Oblast,6.9,51.7,12.6,1.4,0.4
+2007,Volgograd Oblast,4.9,74.6,8.6,1.9,0.4
+2007,Vologda Oblast,9.4,86.3,16.2,0.8,0.4
+2007,Voronezh Oblast,4.7,74.3,11.9,1.5,0.5
+2007,Republic of Dagestan,2.4,5.9,12.2,1.2,0.3
+2007,Jewish Autonomous Oblast,4.4,52.3,9.1,0.9,0.4
+2007,Zabaykalsky Krai,6.7,61.9,13.5,0.8,0.2
+2007,Ivanovo Oblast,8.9,106.2,13.5,1.3,0.4
+2007,Republic of Ingushetia,0.3,1.0,1.0,0.1,
+2007,Irkutsk Oblast,5.4,76.7,11.6,1.1,0.3
+2007,Kabardino-Balkar Republic,2.9,24.3,5.1,1.0,0.4
+2007,Kaliningrad Oblast,12.3,73.8,17.3,1.6,0.9
+2007,Republic of Kalmykia,4.8,29.3,8.1,0.6,0.3
+2007,Kaluga Oblast,6.4,71.4,11.8,2.3,0.5
+2007,Kamchatka Krai,7.8,69.6,18.6,3.3,1.5
+2007,Karachay-Cherkess Republic,2.0,23.0,5.1,0.4,0.4
+2007,Republic of Karelia,11.9,45.7,15.9,1.2,0.6
+2007,Kemerovo Oblast,8.8,65.1,19.6,1.8,0.9
+2007,Kirov Oblast,12.1,76.0,13.8,1.3,0.4
+2007,Kostroma Oblast,7.0,53.7,15.8,0.9,0.4
+2007,Krasnodar Krai,8.2,65.5,7.2,1.1,0.5
+2007,Krasnoyarsk Krai,5.9,84.3,12.5,1.6,0.5
+2007,Republic of Crimea,,,,,
+2007,Kurgan Oblast,6.6,68.0,8.0,0.9,0.3
+2007,Kursk Oblast,6.1,72.4,8.0,1.4,0.4
+2007,Leningrad Oblast,8.5,73.0,13.6,1.9,1.1
+2007,Lipetsk Oblast,6.9,72.5,10.5,1.1,0.3
+2007,Magadan Oblast,7.3,42.0,16.3,3.2,0.9
+2007,Mari El Republic,7.9,28.8,12.7,1.0,0.2
+2007,Republic of Mordovia,5.6,47.4,8.9,0.7,0.2
+2007,Moscow,7.3,101.4,22.9,4.8,1.5
+2007,Moscow Oblast,8.2,67.4,16.9,2.3,1.4
+2007,Murmansk Oblast,10.2,53.0,18.9,1.8,0.9
+2007,Nenets Autonomous Okrug,10.1,40.3,15.6,1.6,0.8
+2007,Nizhny Novgorod Oblast,7.1,70.0,12.0,1.8,0.5
+2007,Novgorod Oblast,12.1,44.0,13.8,1.4,0.6
+2007,Novosibirsk Oblast,5.3,91.8,16.8,1.6,0.5
+2007,Omsk Oblast,3.0,104.2,8.2,0.5,0.2
+2007,Orenburg Oblast,3.7,52.0,9.2,0.8,0.4
+2007,Oryol Oblast,4.6,45.9,7.8,1.4,0.3
+2007,Penza Oblast,10.0,55.2,7.6,0.9,0.2
+2007,Perm Krai,8.8,91.4,13.3,1.2,0.6
+2007,Primorsky Krai,4.9,66.8,13.5,1.9,0.7
+2007,Pskov Oblast,10.2,64.7,11.3,1.3,0.4
+2007,Altai Republic,4.8,39.4,10.5,0.7,0.3
+2007,Komi Republic,11.2,88.3,15.6,1.8,0.7
+2007,Tuva Republic,1.9,52.1,13.9,0.5,0.2
+2007,Rostov Oblast,4.2,60.8,5.3,1.4,0.4
+2007,Ryazan Oblast,5.7,60.6,9.5,1.2,0.3
+2007,Samara Oblast,5.8,63.4,9.5,1.4,0.5
+2007,Saint Petersburg,9.1,106.4,14.0,2.7,1.4
+2007,Saratov Oblast,4.5,53.2,9.0,0.9,0.3
+2007,Sakhalin Oblast,5.7,52.2,17.8,2.1,0.8
+2007,Sverdlovsk Oblast,10.3,96.7,17.2,1.3,0.6
+2007,Sevastopol,,,,,
+2007,Republic of North Ossetia-Alania,2.5,15.7,3.9,0.6,0.1
+2007,Smolensk Oblast,8.4,62.8,13.4,1.8,0.4
+2007,Stavropol Krai,6.8,66.1,6.6,1.4,0.6
+2007,Tambov Oblast,4.1,56.7,10.4,1.0,0.3
+2007,Republic of Tatarstan,3.4,72.6,14.5,1.2,0.3
+2007,Tver Oblast,6.5,71.5,16.5,2.4,0.4
+2007,Tomsk Oblast,8.2,59.1,13.9,1.4,0.6
+2007,Tula Oblast,5.4,43.6,8.6,1.6,0.4
+2007,Tyumen Oblast,6.6,95.4,15.2,1.8,1.1
+2007,Udmurt Republic,8.0,70.4,14.6,0.8,0.3
+2007,Ulyanovsk Oblast,5.3,52.8,8.1,1.1,0.4
+2007,Khabarovsk Krai,5.0,93.7,14.9,2.1,0.7
+2007,Republic of Khakassia,10.7,73.1,15.3,1.2,1.0
+2007,Khanty–Mansi Autonomous Okrug – Yugra,6.6,95.4,15.2,1.8,1.1
+2007,Chelyabinsk Oblast,12.0,118.3,14.9,1.7,0.9
+2007,Chechen Republic,,,,,
+2007,Chuvash Republic,4.9,40.1,13.8,1.1,0.4
+2007,Chukotka Autonomous Okrug,6.3,12.7,17.4,2.4,0.8
+2007,Sakha (Yakutia) Republic,6.9,43.4,13.1,1.6,0.5
+2007,Yamalo-Nenets Autonomous Okrug,6.6,95.4,15.2,1.8,1.1
+2007,Yaroslavl Oblast,9.7,70.8,15.1,1.4,0.6
+2008,Republic of Adygea,5.6,30.9,6.4,1.8,0.9
+2008,Altai Krai,3.5,53.4,8.2,1.3,0.3
+2008,Amur Oblast,6.5,71.1,13.8,1.2,0.5
+2008,Arkhangelsk Oblast,10.7,38.9,16.6,1.6,0.9
+2008,Astrakhan Oblast,5.0,67.5,9.1,0.9,0.4
+2008,Republic of Bashkortostan,2.6,86.1,9.6,0.7,0.2
+2008,Belgorod Oblast,5.6,57.9,10.1,1.2,0.3
+2008,Bryansk Oblast,9.1,56.7,10.2,1.2,0.3
+2008,Republic of Buryatia,6.6,42.9,13.6,0.7,0.1
+2008,Vladimir Oblast,8.6,52.6,11.7,1.3,0.6
+2008,Volgograd Oblast,5.9,91.8,7.3,1.5,0.5
+2008,Vologda Oblast,10.1,89.5,17.5,1.1,0.6
+2008,Voronezh Oblast,5.5,78.3,12.9,1.4,0.6
+2008,Republic of Dagestan,3.1,6.6,12.9,0.7,0.3
+2008,Jewish Autonomous Oblast,5.2,53.2,10.0,1.0,0.4
+2008,Zabaykalsky Krai,6.9,64.1,13.7,0.9,0.3
+2008,Ivanovo Oblast,11.0,104.5,11.7,1.3,0.4
+2008,Republic of Ingushetia,,,,,
+2008,Irkutsk Oblast,6.5,84.1,12.0,1.5,0.5
+2008,Kabardino-Balkar Republic,3.4,25.8,5.2,0.6,0.4
+2008,Kaliningrad Oblast,9.3,67.2,14.7,2.0,1.7
+2008,Republic of Kalmykia,4.5,24.9,7.5,0.4,0.4
+2008,Kaluga Oblast,7.7,64.6,10.8,1.9,0.7
+2008,Kamchatka Krai,7.2,73.4,18.2,3.7,1.7
+2008,Karachay-Cherkess Republic,1.9,27.8,3.7,0.4,0.5
+2008,Republic of Karelia,14.3,50.0,17.4,1.4,0.8
+2008,Kemerovo Oblast,9.3,68.5,17.6,1.6,0.7
+2008,Kirov Oblast,13.1,84.0,14.5,1.4,0.5
+2008,Kostroma Oblast,7.1,62.3,13.2,0.9,0.4
+2008,Krasnodar Krai,8.7,67.4,7.4,1.3,0.6
+2008,Krasnoyarsk Krai,6.4,89.2,12.2,1.7,0.6
+2008,Republic of Crimea,,,,,
+2008,Kurgan Oblast,9.0,81.1,9.0,1.0,0.4
+2008,Kursk Oblast,6.0,69.1,7.7,1.2,0.4
+2008,Leningrad Oblast,9.0,73.2,15.1,2.3,1.5
+2008,Lipetsk Oblast,7.5,74.5,9.0,1.1,0.4
+2008,Magadan Oblast,8.1,34.2,17.1,3.6,1.1
+2008,Mari El Republic,9.9,29.2,13.2,1.0,0.3
+2008,Republic of Mordovia,5.7,50.4,9.7,0.8,0.2
+2008,Moscow,8.4,95.8,20.2,5.0,1.6
+2008,Moscow Oblast,7.8,86.0,15.1,2.4,1.6
+2008,Murmansk Oblast,10.6,54.0,17.7,2.7,1.3
+2008,Nenets Autonomous Okrug,10.7,38.9,16.6,1.6,0.9
+2008,Nizhny Novgorod Oblast,6.3,62.8,12.2,1.8,0.6
+2008,Novgorod Oblast,14.5,54.6,14.4,1.8,0.8
+2008,Novosibirsk Oblast,5.4,90.4,13.6,1.8,0.6
+2008,Omsk Oblast,4.8,126.3,8.7,1.0,0.3
+2008,Orenburg Oblast,4.5,70.1,9.3,0.9,0.4
+2008,Oryol Oblast,5.1,61.1,8.8,1.7,0.4
+2008,Penza Oblast,8.3,61.7,7.5,1.0,0.3
+2008,Perm Krai,7.6,98.3,11.7,1.3,0.7
+2008,Primorsky Krai,5.3,78.4,12.6,2.1,0.7
+2008,Pskov Oblast,9.5,68.8,13.1,1.8,0.7
+2008,Altai Republic,6.0,46.7,10.5,0.8,0.4
+2008,Komi Republic,12.4,89.5,15.8,1.8,0.8
+2008,Tuva Republic,2.0,58.8,15.3,0.6,0.3
+2008,Rostov Oblast,5.0,55.0,5.5,1.6,0.5
+2008,Ryazan Oblast,6.4,58.0,9.4,1.2,0.4
+2008,Samara Oblast,6.4,63.9,10.7,1.7,0.6
+2008,Saint Petersburg,10.4,125.9,12.5,3.6,2.1
+2008,Saratov Oblast,6.1,32.7,8.6,1.5,0.6
+2008,Sakhalin Oblast,8.1,64.0,19.2,3.0,1.5
+2008,Sverdlovsk Oblast,10.1,97.7,16.0,1.5,0.9
+2008,Sevastopol,,,,,
+2008,Republic of North Ossetia-Alania,1.9,12.3,3.4,0.4,0.1
+2008,Smolensk Oblast,9.3,60.7,14.1,2.0,0.6
+2008,Stavropol Krai,6.8,65.5,6.0,1.5,0.7
+2008,Tambov Oblast,4.8,59.9,9.7,1.0,0.3
+2008,Republic of Tatarstan,3.3,76.7,14.6,1.2,0.4
+2008,Tver Oblast,10.6,72.2,15.7,2.5,1.0
+2008,Tomsk Oblast,8.6,67.8,13.6,1.4,0.7
+2008,Tula Oblast,5.7,46.3,8.5,1.9,0.5
+2008,Tyumen Oblast,7.2,93.4,15.0,1.8,1.1
+2008,Udmurt Republic,9.1,77.2,14.6,1.0,0.4
+2008,Ulyanovsk Oblast,6.8,41.1,8.0,1.3,0.4
+2008,Khabarovsk Krai,6.5,99.6,16.8,2.9,1.1
+2008,Republic of Khakassia,9.4,54.6,16.2,1.5,0.7
+2008,Khanty–Mansi Autonomous Okrug – Yugra,7.2,93.4,15.0,1.8,1.1
+2008,Chelyabinsk Oblast,12.4,129.4,15.3,1.7,0.6
+2008,Chechen Republic,,,,,
+2008,Chuvash Republic,5.6,39.0,15.3,1.2,0.5
+2008,Chukotka Autonomous Okrug,8.4,16.7,23.1,3.2,1.3
+2008,Sakha (Yakutia) Republic,7.6,44.5,13.5,2.0,0.6
+2008,Yamalo-Nenets Autonomous Okrug,7.2,93.4,15.0,1.8,1.1
+2008,Yaroslavl Oblast,10.4,71.1,13.9,1.3,0.7
+2009,Republic of Adygea,6.8,31.5,7.4,1.6,1.2
+2009,Altai Krai,3.8,51.6,8.5,1.4,0.3
+2009,Amur Oblast,6.9,75.3,10.5,1.2,0.5
+2009,Arkhangelsk Oblast,11.3,38.7,15.9,2.1,1.1
+2009,Astrakhan Oblast,5.9,74.0,8.7,0.9,0.4
+2009,Republic of Bashkortostan,2.4,80.8,9.1,1.5,0.2
+2009,Belgorod Oblast,4.2,44.9,9.3,0.9,0.3
+2009,Bryansk Oblast,10.5,55.0,10.5,1.4,0.3
+2009,Republic of Buryatia,7.3,47.7,14.3,0.7,0.2
+2009,Vladimir Oblast,8.5,51.4,11.7,1.3,0.6
+2009,Volgograd Oblast,5.1,76.7,7.6,1.7,0.5
+2009,Vologda Oblast,12.9,84.8,15.2,1.3,0.5
+2009,Voronezh Oblast,7.1,73.9,13.0,1.8,0.6
+2009,Republic of Dagestan,3.8,6.3,13.2,0.7,0.3
+2009,Jewish Autonomous Oblast,5.5,58.4,10.7,1.1,0.4
+2009,Zabaykalsky Krai,6.5,66.8,13.8,1.0,0.4
+2009,Ivanovo Oblast,10.9,100.2,10.8,1.3,0.5
+2009,Republic of Ingushetia,,,0.1,,
+2009,Irkutsk Oblast,6.3,92.2,11.4,1.3,0.4
+2009,Kabardino-Balkar Republic,3.2,30.2,3.7,0.4,0.4
+2009,Kaliningrad Oblast,7.6,62.7,10.5,1.9,1.6
+2009,Republic of Kalmykia,4.0,26.8,6.9,0.3,0.4
+2009,Kaluga Oblast,7.4,50.1,10.2,1.5,0.8
+2009,Kamchatka Krai,7.6,75.0,17.5,3.9,1.8
+2009,Karachay-Cherkess Republic,1.5,29.1,2.8,0.4,0.5
+2009,Republic of Karelia,13.6,52.4,16.4,1.4,1.0
+2009,Kemerovo Oblast,9.2,62.5,13.9,1.3,0.7
+2009,Kirov Oblast,13.4,77.0,14.2,1.4,0.5
+2009,Kostroma Oblast,7.5,60.8,12.4,1.0,0.4
+2009,Krasnodar Krai,7.8,58.2,6.4,1.4,0.6
+2009,Krasnoyarsk Krai,6.4,90.0,11.6,1.6,0.6
+2009,Republic of Crimea,,,,,
+2009,Kurgan Oblast,9.1,84.0,9.0,0.9,0.3
+2009,Kursk Oblast,6.4,70.1,8.4,1.2,0.4
+2009,Leningrad Oblast,10.8,74.7,18.8,2.4,1.9
+2009,Lipetsk Oblast,7.9,70.7,9.3,1.2,0.4
+2009,Magadan Oblast,8.8,41.5,20.8,3.8,1.2
+2009,Mari El Republic,11.7,29.3,12.2,1.0,0.3
+2009,Republic of Mordovia,6.0,51.2,9.9,0.9,0.2
+2009,Moscow,9.4,79.7,19.3,4.8,1.8
+2009,Moscow Oblast,7.5,100.6,13.5,2.3,1.4
+2009,Murmansk Oblast,10.1,50.3,15.3,2.9,1.4
+2009,Nenets Autonomous Okrug,11.3,38.7,15.9,2.1,1.1
+2009,Nizhny Novgorod Oblast,6.7,58.9,11.8,1.8,0.6
+2009,Novgorod Oblast,14.8,49.1,14.0,1.8,0.8
+2009,Novosibirsk Oblast,5.2,78.8,11.2,1.7,0.6
+2009,Omsk Oblast,5.0,116.7,7.8,1.0,0.3
+2009,Orenburg Oblast,4.2,75.6,7.5,0.9,0.2
+2009,Oryol Oblast,5.7,58.8,9.1,1.7,0.5
+2009,Penza Oblast,8.8,58.6,7.4,1.1,0.3
+2009,Perm Krai,7.2,84.6,10.9,1.2,0.6
+2009,Primorsky Krai,5.6,69.8,11.7,2.3,0.8
+2009,Pskov Oblast,10.3,62.3,13.5,1.7,0.7
+2009,Altai Republic,5.5,60.7,10.4,0.8,0.4
+2009,Komi Republic,13.1,90.8,16.7,1.9,0.8
+2009,Tuva Republic,2.9,64.3,15.2,0.6,0.3
+2009,Rostov Oblast,5.0,51.0,5.5,1.5,0.5
+2009,Ryazan Oblast,6.4,55.6,8.4,1.2,0.4
+2009,Samara Oblast,7.0,58.0,10.2,1.5,0.5
+2009,Saint Petersburg,7.7,143.0,9.4,2.4,1.3
+2009,Saratov Oblast,5.8,42.7,8.5,1.4,0.7
+2009,Sakhalin Oblast,7.7,51.4,19.2,3.5,1.4
+2009,Sverdlovsk Oblast,8.9,95.8,14.9,1.4,0.8
+2009,Sevastopol,,,,,
+2009,Republic of North Ossetia-Alania,1.5,11.7,3.0,0.4,0.2
+2009,Smolensk Oblast,10.2,57.4,13.5,1.7,0.6
+2009,Stavropol Krai,6.4,63.6,5.0,1.6,0.8
+2009,Tambov Oblast,5.4,64.1,10.0,1.2,0.3
+2009,Republic of Tatarstan,3.0,78.8,13.3,1.2,0.4
+2009,Tver Oblast,8.9,67.0,15.3,2.0,0.9
+2009,Tomsk Oblast,6.8,58.6,12.7,1.1,0.7
+2009,Tula Oblast,6.5,47.1,8.8,1.9,0.5
+2009,Tyumen Oblast,7.1,86.6,13.2,1.8,1.3
+2009,Udmurt Republic,10.9,78.6,13.0,1.0,0.4
+2009,Ulyanovsk Oblast,6.4,39.9,8.3,1.2,0.4
+2009,Khabarovsk Krai,6.2,94.7,15.5,2.9,0.9
+2009,Republic of Khakassia,6.1,58.5,11.1,0.7,0.4
+2009,Khanty–Mansi Autonomous Okrug – Yugra,7.1,86.6,13.2,1.8,1.3
+2009,Chelyabinsk Oblast,12.7,120.8,15.2,1.8,0.6
+2009,Chechen Republic,,,,,
+2009,Chuvash Republic,4.9,38.7,14.4,1.2,0.5
+2009,Chukotka Autonomous Okrug,4.9,9.8,15.5,1.9,1.5
+2009,Sakha (Yakutia) Republic,4.8,46.6,13.5,2.0,0.7
+2009,Yamalo-Nenets Autonomous Okrug,7.1,86.6,13.2,1.8,1.3
+2009,Yaroslavl Oblast,10.0,71.5,13.6,1.6,0.7
+2010,Republic of Adygea,6.2,31.5,6.6,1.6,1.0
+2010,Altai Krai,4.1,59.0,9.8,1.5,0.4
+2010,Amur Oblast,7.6,75.8,11.6,1.6,0.6
+2010,Arkhangelsk Oblast,12.0,40.2,16.2,2.6,1.2
+2010,Astrakhan Oblast,6.1,77.1,9.2,1.0,0.5
+2010,Republic of Bashkortostan,2.2,79.6,8.7,0.5,0.2
+2010,Belgorod Oblast,3.0,35.6,6.5,0.9,0.4
+2010,Bryansk Oblast,9.7,53.2,10.8,1.6,0.4
+2010,Republic of Buryatia,7.8,43.5,14.4,0.8,0.3
+2010,Vladimir Oblast,9.0,49.0,12.0,1.4,0.6
+2010,Volgograd Oblast,5.0,66.1,6.9,1.6,0.5
+2010,Vologda Oblast,9.2,85.9,12.9,0.9,0.4
+2010,Voronezh Oblast,6.6,71.4,9.4,1.9,0.5
+2010,Republic of Dagestan,3.3,3.1,10.2,0.4,0.3
+2010,Jewish Autonomous Oblast,5.5,59.1,12.1,1.2,0.4
+2010,Zabaykalsky Krai,6.4,65.3,13.4,1.0,0.4
+2010,Ivanovo Oblast,9.5,86.4,10.2,1.5,0.5
+2010,Republic of Ingushetia,,,0.05,,
+2010,Irkutsk Oblast,6.5,85.4,11.4,1.3,0.5
+2010,Kabardino-Balkar Republic,3.2,26.1,3.5,0.4,0.4
+2010,Kaliningrad Oblast,8.6,57.6,15.6,2.0,1.9
+2010,Republic of Kalmykia,2.8,24.3,5.5,0.3,0.4
+2010,Kaluga Oblast,8.9,53.7,11.2,1.6,0.8
+2010,Kamchatka Krai,7.7,75.6,16.9,4.1,1.8
+2010,Karachay-Cherkess Republic,1.4,28.4,2.3,0.5,0.5
+2010,Republic of Karelia,12.9,55.1,17.6,1.6,1.2
+2010,Kemerovo Oblast,9.0,67.1,13.6,1.3,0.6
+2010,Kirov Oblast,11.0,77.4,15.2,1.8,0.5
+2010,Kostroma Oblast,8.5,56.1,12.8,1.2,0.5
+2010,Krasnodar Krai,6.7,55.2,6.2,1.5,0.6
+2010,Krasnoyarsk Krai,6.5,85.9,11.3,1.8,0.7
+2010,Republic of Crimea,,,,,
+2010,Kurgan Oblast,8.4,82.4,8.5,0.9,0.4
+2010,Kursk Oblast,6.6,69.4,8.4,1.3,0.4
+2010,Leningrad Oblast,10.5,77.3,17.8,2.3,2.0
+2010,Lipetsk Oblast,8.2,74.5,9.3,1.4,0.5
+2010,Magadan Oblast,7.9,55.5,18.1,4.0,1.5
+2010,Mari El Republic,10.6,30.6,12.3,1.0,0.4
+2010,Republic of Mordovia,6.3,55.0,10.5,1.0,0.3
+2010,Moscow,10.1,87.8,16.6,4.9,1.8
+2010,Moscow Oblast,8.3,100.6,13.0,2.7,1.4
+2010,Murmansk Oblast,10.3,51.4,12.7,3.3,1.5
+2010,Nenets Autonomous Okrug,12.0,40.2,16.2,2.6,1.2
+2010,Nizhny Novgorod Oblast,7.9,51.8,11.5,1.8,0.7
+2010,Novgorod Oblast,14.8,49.6,14.7,1.9,0.9
+2010,Novosibirsk Oblast,5.4,70.9,10.7,1.8,0.7
+2010,Omsk Oblast,5.6,118.8,6.9,1.2,0.4
+2010,Orenburg Oblast,4.3,68.6,6.8,0.9,0.3
+2010,Oryol Oblast,6.6,61.4,8.5,1.6,0.4
+2010,Penza Oblast,7.8,62.6,7.6,1.2,0.3
+2010,Perm Krai,6.6,78.1,10.7,1.2,0.6
+2010,Primorsky Krai,5.5,70.8,11.1,2.7,0.8
+2010,Pskov Oblast,13.6,58.1,15.1,2.0,0.9
+2010,Altai Republic,6.1,59.9,9.9,1.1,0.4
+2010,Komi Republic,12.8,90.4,17.1,2.2,1.0
+2010,Tuva Republic,5.1,77.7,15.2,0.6,0.4
+2010,Rostov Oblast,5.2,47.5,5.3,1.7,0.6
+2010,Ryazan Oblast,6.7,58.6,8.7,1.4,0.5
+2010,Samara Oblast,6.2,61.4,9.4,1.9,0.6
+2010,Saint Petersburg,8.4,113.2,9.5,3.0,1.2
+2010,Saratov Oblast,5.7,47.6,8.6,1.6,0.6
+2010,Sakhalin Oblast,8.8,59.5,18.8,3.8,1.5
+2010,Sverdlovsk Oblast,10.7,91.4,14.1,1.7,0.9
+2010,Sevastopol,,,,,
+2010,Republic of North Ossetia-Alania,1.7,14.3,3.2,0.4,0.3
+2010,Smolensk Oblast,10.7,54.2,13.4,2.3,0.7
+2010,Stavropol Krai,5.4,66.5,4.4,1.5,0.8
+2010,Tambov Oblast,5.4,71.2,8.1,1.3,0.4
+2010,Republic of Tatarstan,3.5,78.5,13.5,1.4,0.5
+2010,Tver Oblast,9.4,65.5,14.8,2.0,0.8
+2010,Tomsk Oblast,7.6,51.1,12.4,1.5,0.7
+2010,Tula Oblast,6.2,47.6,9.2,2.3,0.6
+2010,Tyumen Oblast,7.7,87.4,12.8,2.0,1.3
+2010,Udmurt Republic,10.9,80.4,12.1,0.9,0.5
+2010,Ulyanovsk Oblast,7.0,40.0,8.8,1.6,0.5
+2010,Khabarovsk Krai,6.5,101.4,16.5,3.1,1.1
+2010,Republic of Khakassia,7.4,57.7,11.5,1.2,0.6
+2010,Khanty–Mansi Autonomous Okrug – Yugra,7.7,87.4,12.8,2.0,1.3
+2010,Chelyabinsk Oblast,9.8,108.9,11.9,1.7,0.6
+2010,Chechen Republic,,,,,
+2010,Chuvash Republic,5.7,39.0,14.8,1.2,0.5
+2010,Chukotka Autonomous Okrug,5.5,17.7,15.9,2.8,1.4
+2010,Sakha (Yakutia) Republic,5.2,50.1,12.8,2.0,0.7
+2010,Yamalo-Nenets Autonomous Okrug,7.7,87.4,12.8,2.0,1.3
+2010,Yaroslavl Oblast,11.3,76.3,12.2,2.1,0.8
+2011,Republic of Adygea,3.29,35.82,6.9,1.24,0.75
+2011,Altai Krai,4.51,63.39,10.75,1.54,0.4
+2011,Amur Oblast,7.21,83.27,12.02,1.9,0.64
+2011,Arkhangelsk Oblast,12.23,41.6,16.64,2.59,1.24
+2011,Astrakhan Oblast,4.92,77.01,8.74,0.97,0.56
+2011,Republic of Bashkortostan,3.04,63.87,10.97,0.85,0.28
+2011,Belgorod Oblast,3.6,35.87,7.25,1.18,0.56
+2011,Bryansk Oblast,9.96,49.13,10.56,1.69,0.43
+2011,Republic of Buryatia,7.31,39.05,13.58,0.77,0.24
+2011,Vladimir Oblast,8.43,46.74,12.26,1.48,0.64
+2011,Volgograd Oblast,4.82,67.13,6.59,1.66,0.6
+2011,Vologda Oblast,10.34,88.83,15.44,1.29,0.64
+2011,Voronezh Oblast,6.02,81.01,8.41,1.9,0.44
+2011,Republic of Dagestan,3.27,2.74,7.88,0.38,0.37
+2011,Jewish Autonomous Oblast,5.06,59.83,12.17,1.31,0.5
+2011,Zabaykalsky Krai,6.52,66.83,13.81,1.07,0.45
+2011,Ivanovo Oblast,9.71,88.42,11.14,1.57,0.57
+2011,Republic of Ingushetia,,,,,
+2011,Irkutsk Oblast,6.1,77.29,10.98,1.4,0.51
+2011,Kabardino-Balkar Republic,2.66,23.28,3.08,0.55,0.39
+2011,Kaliningrad Oblast,7.98,56.95,14.65,2.03,2.13
+2011,Republic of Kalmykia,2.47,17.9,4.87,0.33,0.42
+2011,Kaluga Oblast,9.26,57.93,11.62,1.78,0.86
+2011,Kamchatka Krai,7.59,77.77,16.83,4.2,1.76
+2011,Karachay-Cherkess Republic,1.36,29.53,2.17,0.47,0.46
+2011,Republic of Karelia,11.98,56.94,19.33,1.87,1.6
+2011,Kemerovo Oblast,7.48,71.37,13.7,1.48,0.61
+2011,Kirov Oblast,9.23,82.05,15.09,1.82,0.55
+2011,Kostroma Oblast,8.11,59.69,11.87,1.28,0.51
+2011,Krasnodar Krai,6.47,59.93,6.47,1.79,0.92
+2011,Krasnoyarsk Krai,6.22,79.04,10.98,1.73,0.75
+2011,Republic of Crimea,,,,,
+2011,Kurgan Oblast,6.98,85.81,7.72,1.01,0.42
+2011,Kursk Oblast,6.33,71.19,7.73,1.43,0.49
+2011,Leningrad Oblast,8.54,86.7,15.38,2.52,1.62
+2011,Lipetsk Oblast,6.48,77.72,8.85,1.32,0.45
+2011,Magadan Oblast,8.17,55.4,17.53,4.06,1.6
+2011,Mari El Republic,8.57,32.79,12.48,1.05,0.42
+2011,Republic of Mordovia,6.15,56.93,10.79,1.01,0.35
+2011,Moscow,9.85,91.28,16.92,5.14,1.8
+2011,Moscow Oblast,7.6,108.64,12.96,2.77,1.31
+2011,Murmansk Oblast,10.72,51.86,12.6,3.32,1.52
+2011,Nenets Autonomous Okrug,10.53,33.24,21.69,5.56,1.75
+2011,Nizhny Novgorod Oblast,7.66,51.77,10.98,1.68,0.65
+2011,Novgorod Oblast,13.71,49.97,14.89,2.51,1.06
+2011,Novosibirsk Oblast,4.9,84.83,10.37,1.76,0.69
+2011,Omsk Oblast,5.02,126.93,6.78,1.28,0.44
+2011,Orenburg Oblast,4.5,66.58,6.38,1.1,0.3
+2011,Oryol Oblast,6.8,62.18,8.11,1.66,0.47
+2011,Penza Oblast,7.37,87.37,7.89,1.22,0.39
+2011,Perm Krai,6.07,79.01,10.1,1.24,0.64
+2011,Primorsky Krai,6.03,72.22,10.91,2.72,0.82
+2011,Pskov Oblast,12.75,48.17,13.5,2.29,0.88
+2011,Altai Republic,5.71,61.96,10.19,1.16,0.52
+2011,Komi Republic,10.75,94.74,17.83,2.25,1.09
+2011,Tuva Republic,4.26,81.21,15.33,0.77,0.37
+2011,Rostov Oblast,4.61,48.69,5.27,1.6,0.6
+2011,Ryazan Oblast,7.96,65.73,8.32,1.41,0.5
+2011,Samara Oblast,5.97,61.93,9.5,2.38,0.7
+2011,Saint Petersburg,6.9,82.93,9.01,2.71,1.13
+2011,Saratov Oblast,5.46,50.3,8.75,1.69,0.58
+2011,Sakhalin Oblast,8.5,67.32,18.51,3.89,1.52
+2011,Sverdlovsk Oblast,8.67,92.02,12.81,1.85,0.9
+2011,Sevastopol,,,,,
+2011,Republic of North Ossetia-Alania,1.72,17.65,3.35,0.58,0.26
+2011,Smolensk Oblast,9.27,57.03,12.46,2.39,0.73
+2011,Stavropol Krai,5.97,65.12,5.14,2.01,0.94
+2011,Tambov Oblast,5.77,69.91,8.18,1.31,0.45
+2011,Republic of Tatarstan,3.71,83.81,13.19,1.36,0.49
+2011,Tver Oblast,8.69,66.51,13.86,1.85,0.81
+2011,Tomsk Oblast,7.41,46.4,12.54,1.63,0.75
+2011,Tula Oblast,6.34,51.53,9.55,2.46,0.5
+2011,Tyumen Oblast,7.3,86.65,12.09,2.1,1.29
+2011,Udmurt Republic,7.95,87.28,13.38,0.99,0.72
+2011,Ulyanovsk Oblast,7.41,54.9,8.49,1.54,0.53
+2011,Khabarovsk Krai,5.79,104.94,16.87,3.08,1.09
+2011,Republic of Khakassia,6.11,68.0,12.16,1.17,0.76
+2011,Khanty–Mansi Autonomous Okrug – Yugra,6.69,73.66,12.43,2.29,1.66
+2011,Chelyabinsk Oblast,8.34,85.8,11.53,1.54,0.55
+2011,Chechen Republic,,,,,
+2011,Chuvash Republic,5.24,39.06,14.03,1.29,0.62
+2011,Chukotka Autonomous Okrug,5.23,16.91,14.74,2.9,1.58
+2011,Sakha (Yakutia) Republic,5.87,55.04,11.97,2.07,0.65
+2011,Yamalo-Nenets Autonomous Okrug,6.33,100.92,14.07,2.53,1.78
+2011,Yaroslavl Oblast,10.27,77.3,11.84,1.68,0.85
+2012,Republic of Adygea,3.1,34.5,5.6,1.3,0.7
+2012,Altai Krai,4.8,70.4,11.0,1.5,0.4
+2012,Amur Oblast,5.8,75.8,13.3,1.9,0.6
+2012,Arkhangelsk Oblast,9.2,49.2,14.4,2.3,1.1
+2012,Astrakhan Oblast,4.7,79.7,9.5,1.1,0.7
+2012,Republic of Bashkortostan,4.0,78.3,11.7,0.8,0.4
+2012,Belgorod Oblast,3.3,39.5,7.0,1.3,0.7
+2012,Bryansk Oblast,8.4,50.9,10.0,1.6,0.5
+2012,Republic of Buryatia,7.6,38.5,13.1,0.6,0.3
+2012,Vladimir Oblast,8.0,46.6,11.9,1.5,0.7
+2012,Volgograd Oblast,4.5,71.6,5.9,1.7,0.5
+2012,Vologda Oblast,9.8,108.6,14.9,1.3,0.8
+2012,Voronezh Oblast,7.5,83.3,8.5,2.0,0.6
+2012,Republic of Dagestan,1.6,2.5,8.0,0.4,0.4
+2012,Jewish Autonomous Oblast,4.7,61.7,12.7,1.5,0.5
+2012,Zabaykalsky Krai,6.6,68.0,13.6,1.1,0.4
+2012,Ivanovo Oblast,9.2,92.8,11.9,1.7,0.6
+2012,Republic of Ingushetia,,,,,
+2012,Irkutsk Oblast,6.3,71.7,10.8,1.5,0.6
+2012,Kabardino-Balkar Republic,1.7,20.4,2.3,0.5,0.3
+2012,Kaliningrad Oblast,8.6,61.0,14.8,1.7,2.3
+2012,Republic of Kalmykia,2.7,15.9,4.9,0.4,0.5
+2012,Kaluga Oblast,9.3,64.0,11.9,2.0,0.9
+2012,Kamchatka Krai,7.5,76.0,15.4,4.3,1.8
+2012,Karachay-Cherkess Republic,1.3,28.7,1.8,0.5,0.4
+2012,Republic of Karelia,10.6,58.2,18.0,1.7,1.4
+2012,Kemerovo Oblast,5.9,75.3,14.2,1.6,0.7
+2012,Kirov Oblast,8.1,81.4,15.1,1.7,0.6
+2012,Kostroma Oblast,7.7,79.6,12.3,1.3,0.5
+2012,Krasnodar Krai,5.7,63.1,5.8,1.7,0.9
+2012,Krasnoyarsk Krai,6.1,77.5,10.8,1.7,0.8
+2012,Republic of Crimea,,,,,
+2012,Kurgan Oblast,5.8,82.5,7.5,1.1,0.4
+2012,Kursk Oblast,5.6,60.7,7.7,1.5,0.6
+2012,Leningrad Oblast,7.4,81.3,14.4,2.1,1.5
+2012,Lipetsk Oblast,5.7,77.7,8.1,1.4,0.5
+2012,Magadan Oblast,8.0,59.9,24.3,4.9,2.1
+2012,Mari El Republic,8.8,31.2,12.4,1.2,0.6
+2012,Republic of Mordovia,6.1,58.7,10.8,1.0,0.4
+2012,Moscow,9.7,89.9,16.5,5.0,1.7
+2012,Moscow Oblast,7.4,101.0,11.3,2.6,1.5
+2012,Murmansk Oblast,10.8,52.6,13.1,3.4,1.7
+2012,Nenets Autonomous Okrug,9.9,54.9,19.0,2.7,1.4
+2012,Nizhny Novgorod Oblast,7.3,53.5,10.5,1.8,0.7
+2012,Novgorod Oblast,13.1,50.0,14.7,2.6,1.1
+2012,Novosibirsk Oblast,5.4,89.7,9.7,1.9,0.8
+2012,Omsk Oblast,5.1,125.2,7.0,1.4,0.5
+2012,Orenburg Oblast,4.5,65.2,6.5,1.2,0.4
+2012,Oryol Oblast,6.4,66.8,8.0,1.7,0.5
+2012,Penza Oblast,6.0,97.9,7.3,1.0,0.4
+2012,Perm Krai,5.6,82.7,9.7,1.4,0.8
+2012,Primorsky Krai,6.7,67.3,11.2,2.3,0.8
+2012,Pskov Oblast,9.5,43.1,12.1,1.8,0.9
+2012,Altai Republic,5.2,62.9,9.9,1.0,0.5
+2012,Komi Republic,9.6,90.0,18.9,2.2,1.3
+2012,Tuva Republic,3.8,95.8,12.1,0.8,0.4
+2012,Rostov Oblast,4.0,50.8,5.3,1.6,0.7
+2012,Ryazan Oblast,6.5,71.4,9.2,1.6,0.6
+2012,Samara Oblast,6.4,56.0,8.2,1.9,0.7
+2012,Saint Petersburg,8.0,77.2,8.6,2.8,1.3
+2012,Saratov Oblast,5.5,54.1,8.8,1.4,0.6
+2012,Sakhalin Oblast,8.1,67.2,17.1,3.8,1.4
+2012,Sverdlovsk Oblast,7.6,90.8,11.6,1.9,0.9
+2012,Sevastopol,,,,,
+2012,Republic of North Ossetia-Alania,1.4,21.0,2.8,0.6,0.3
+2012,Smolensk Oblast,8.0,58.3,13.0,2.2,1.0
+2012,Stavropol Krai,5.5,63.1,5.3,2.1,1.0
+2012,Tambov Oblast,6.6,78.8,8.5,1.2,0.5
+2012,Republic of Tatarstan,3.7,87.1,13.1,1.2,0.6
+2012,Tver Oblast,9.8,64.6,13.8,1.7,1.0
+2012,Tomsk Oblast,7.9,42.4,12.0,1.5,0.8
+2012,Tula Oblast,6.4,45.6,9.2,2.3,0.6
+2012,Tyumen Oblast,7.4,85.5,12.0,2.0,1.3
+2012,Udmurt Republic,8.0,96.1,13.1,1.0,0.6
+2012,Ulyanovsk Oblast,6.6,54.6,8.2,1.6,0.5
+2012,Khabarovsk Krai,6.2,98.2,17.8,3.6,1.0
+2012,Republic of Khakassia,4.7,70.3,11.2,1.0,0.6
+2012,Khanty–Mansi Autonomous Okrug – Yugra,6.8,72.4,12.2,2.1,1.6
+2012,Chelyabinsk Oblast,7.0,77.2,11.8,2.1,0.6
+2012,Chechen Republic,,,,,
+2012,Chuvash Republic,5.2,41.6,13.9,1.2,0.6
+2012,Chukotka Autonomous Okrug,5.1,24.0,13.7,3.0,1.6
+2012,Sakha (Yakutia) Republic,5.8,56.0,11.7,2.4,0.7
+2012,Yamalo-Nenets Autonomous Okrug,6.3,99.9,14.1,2.5,1.8
+2012,Yaroslavl Oblast,9.7,73.4,12.7,1.9,1.1
+2013,Republic of Adygea,2.9,37.0,4.7,1.2,0.7
+2013,Altai Krai,4.4,64.6,8.7,1.4,0.4
+2013,Amur Oblast,6.7,75.1,10.2,1.9,0.7
+2013,Arkhangelsk Oblast,9.2,49.2,14.4,2.3,1.1
+2013,Astrakhan Oblast,4.2,79.1,7.3,1.0,0.6
+2013,Republic of Bashkortostan,4.0,90.3,10.8,0.8,0.6
+2013,Belgorod Oblast,3.1,45.7,6.6,1.3,0.6
+2013,Bryansk Oblast,7.5,42.4,7.8,1.6,0.5
+2013,Republic of Buryatia,4.3,40.0,10.5,0.7,0.3
+2013,Vladimir Oblast,7.2,45.8,10.9,1.6,0.8
+2013,Volgograd Oblast,4.6,78.4,4.7,1.7,0.5
+2013,Vologda Oblast,8.2,92.0,12.9,1.3,0.7
+2013,Voronezh Oblast,7.0,85.2,8.0,2.3,0.5
+2013,Republic of Dagestan,1.0,2.1,4.8,0.3,0.3
+2013,Jewish Autonomous Oblast,4.5,65.1,10.1,1.7,0.5
+2013,Zabaykalsky Krai,6.4,64.5,12.7,1.1,0.4
+2013,Ivanovo Oblast,8.8,84.7,9.3,1.7,0.6
+2013,Republic of Ingushetia,,,,,
+2013,Irkutsk Oblast,5.8,71.6,9.4,1.5,0.6
+2013,Kabardino-Balkar Republic,0.8,17.8,1.6,0.3,0.2
+2013,Kaliningrad Oblast,6.9,57.6,13.2,1.9,2.1
+2013,Republic of Kalmykia,2.2,13.6,4.3,0.3,0.4
+2013,Kaluga Oblast,8.6,52.3,11.7,1.7,0.9
+2013,Kamchatka Krai,6.7,76.3,15.1,4.1,1.8
+2013,Karachay-Cherkess Republic,1.1,28.1,1.2,0.4,0.3
+2013,Republic of Karelia,10.8,58.3,15.4,1.7,1.3
+2013,Kemerovo Oblast,5.9,72.6,11.3,1.8,0.8
+2013,Kirov Oblast,8.1,73.3,12.9,1.4,0.6
+2013,Kostroma Oblast,6.6,52.4,11.5,1.3,0.6
+2013,Krasnodar Krai,5.1,64.1,5.0,1.8,0.8
+2013,Krasnoyarsk Krai,5.4,73.9,9.4,1.7,0.8
+2013,Republic of Crimea,,,,,
+2013,Kurgan Oblast,4.9,77.6,5.8,1.3,0.5
+2013,Kursk Oblast,5.1,51.9,7.6,1.7,0.6
+2013,Leningrad Oblast,6.6,73.6,12.2,2.0,1.2
+2013,Lipetsk Oblast,5.2,72.0,7.1,1.2,0.5
+2013,Magadan Oblast,6.8,61.6,17.8,4.3,2.1
+2013,Mari El Republic,8.0,28.6,10.6,1.1,0.6
+2013,Republic of Mordovia,6.3,61.1,9.6,1.3,0.5
+2013,Moscow,8.8,92.5,16.0,5.1,1.7
+2013,Moscow Oblast,6.5,99.0,11.5,2.4,1.5
+2013,Murmansk Oblast,10.9,54.1,13.2,3.3,1.7
+2013,Nenets Autonomous Okrug,8.4,57.2,14.9,2.6,1.3
+2013,Nizhny Novgorod Oblast,6.0,55.5,8.5,1.6,0.7
+2013,Novgorod Oblast,11.3,48.7,12.6,2.4,1.1
+2013,Novosibirsk Oblast,5.3,74.9,7.9,1.8,0.7
+2013,Omsk Oblast,4.9,103.0,5.0,1.5,0.5
+2013,Orenburg Oblast,4.0,63.0,5.7,1.1,0.3
+2013,Oryol Oblast,5.9,73.2,6.7,1.7,0.5
+2013,Penza Oblast,6.3,128.5,6.0,1.0,0.4
+2013,Perm Krai,5.2,74.2,8.7,1.3,0.8
+2013,Primorsky Krai,5.9,67.5,11.4,2.3,0.9
+2013,Pskov Oblast,7.3,40.5,8.0,1.0,0.6
+2013,Altai Republic,4.2,59.5,9.1,1.0,0.4
+2013,Komi Republic,9.0,81.2,16.3,2.4,1.3
+2013,Tuva Republic,2.7,90.0,10.3,0.7,0.4
+2013,Rostov Oblast,4.5,52.6,4.6,1.5,0.6
+2013,Ryazan Oblast,5.6,66.0,7.5,1.6,0.6
+2013,Samara Oblast,5.7,55.4,6.9,1.9,0.7
+2013,Saint Petersburg,6.8,44.2,7.2,2.6,1.0
+2013,Saratov Oblast,4.8,40.3,5.2,1.2,0.6
+2013,Sakhalin Oblast,7.2,70.9,15.0,3.8,1.4
+2013,Sverdlovsk Oblast,7.1,91.7,11.8,2.0,1.0
+2013,Sevastopol,,,,,
+2013,Republic of North Ossetia-Alania,1.3,20.7,2.2,0.5,0.2
+2013,Smolensk Oblast,7.5,56.1,11.2,2.2,1.0
+2013,Stavropol Krai,4.5,60.0,4.5,1.9,0.9
+2013,Tambov Oblast,5.2,82.4,6.6,1.1,0.5
+2013,Republic of Tatarstan,3.8,79.9,10.7,1.0,0.6
+2013,Tver Oblast,7.1,64.5,12.5,1.4,1.0
+2013,Tomsk Oblast,7.6,44.6,11.2,1.5,0.8
+2013,Tula Oblast,4.8,46.6,7.0,1.5,0.6
+2013,Tyumen Oblast,6.7,83.5,11.5,2.1,1.3
+2013,Udmurt Republic,5.7,82.8,10.9,1.0,0.7
+2013,Ulyanovsk Oblast,5.3,55.2,7.4,1.7,0.5
+2013,Khabarovsk Krai,5.7,94.3,14.1,3.1,1.0
+2013,Republic of Khakassia,3.3,68.6,7.1,0.9,0.5
+2013,Khanty–Mansi Autonomous Okrug – Yugra,6.1,71.5,11.8,2.2,1.6
+2013,Chelyabinsk Oblast,4.7,79.8,6.8,1.9,0.7
+2013,Chechen Republic,,,,,
+2013,Chuvash Republic,5.2,43.8,11.3,1.2,0.5
+2013,Chukotka Autonomous Okrug,4.0,27.0,13.4,2.3,1.5
+2013,Sakha (Yakutia) Republic,4.7,55.5,10.7,2.0,0.7
+2013,Yamalo-Nenets Autonomous Okrug,5.8,97.7,12.7,2.5,1.7
+2013,Yaroslavl Oblast,7.6,79.3,11.1,1.7,1.0
+2014,Republic of Adygea,3.7,28.7,4.1,1.5,0.7
+2014,Altai Krai,4.1,52.5,5.5,1.0,0.3
+2014,Amur Oblast,6.1,64.0,8.3,1.8,0.6
+2014,Arkhangelsk Oblast,10.7,64.4,12.8,2.0,1.0
+2014,Astrakhan Oblast,5.1,62.9,5.8,1.0,0.7
+2014,Republic of Bashkortostan,3.2,75.1,9.5,0.9,0.4
+2014,Belgorod Oblast,3.0,55.5,5.2,1.2,0.3
+2014,Bryansk Oblast,8.5,46.9,6.4,1.4,0.5
+2014,Republic of Buryatia,4.9,39.3,9.0,0.8,0.3
+2014,Vladimir Oblast,9.6,51.4,7.9,1.0,0.7
+2014,Volgograd Oblast,5.5,72.7,3.6,1.6,0.5
+2014,Vologda Oblast,10.0,63.7,11.1,1.2,0.6
+2014,Voronezh Oblast,5.8,63.9,4.9,1.6,0.6
+2014,Republic of Dagestan,0.4,2.2,2.9,0.2,0.3
+2014,Jewish Autonomous Oblast,5.3,56.1,8.8,1.5,0.4
+2014,Zabaykalsky Krai,6.6,38.8,9.2,1.1,0.3
+2014,Ivanovo Oblast,8.2,71.6,7.0,1.0,0.6
+2014,Republic of Ingushetia,,0.4,,,
+2014,Irkutsk Oblast,6.2,73.2,7.7,1.5,0.6
+2014,Kabardino-Balkar Republic,0.5,17.1,0.6,0.3,0.1
+2014,Kaliningrad Oblast,6.9,36.9,7.7,1.5,1.2
+2014,Republic of Kalmykia,3.1,17.4,3.6,0.3,0.5
+2014,Kaluga Oblast,7.7,46.1,9.0,1.8,0.9
+2014,Kamchatka Krai,6.4,76.0,13.0,4.0,1.7
+2014,Karachay-Cherkess Republic,1.2,28.1,0.9,0.4,0.2
+2014,Republic of Karelia,12.3,57.5,13.5,1.6,1.2
+2014,Kemerovo Oblast,4.5,72.1,7.4,1.2,0.5
+2014,Kirov Oblast,8.5,73.8,10.6,1.2,0.6
+2014,Kostroma Oblast,7.3,52.0,9.0,1.1,0.5
+2014,Krasnodar Krai,5.6,66.8,4.2,1.7,0.7
+2014,Krasnoyarsk Krai,4.8,61.3,6.7,1.6,0.8
+2014,Republic of Crimea,3.7,16.2,3.9,0.8,1.1
+2014,Kurgan Oblast,5.0,70.0,4.2,1.3,0.4
+2014,Kursk Oblast,5.7,44.8,4.3,1.6,0.5
+2014,Leningrad Oblast,9.2,49.7,10.6,2.0,1.3
+2014,Lipetsk Oblast,6.4,56.8,5.0,1.2,0.4
+2014,Magadan Oblast,7.7,63.5,16.5,4.3,2.0
+2014,Mari El Republic,8.6,34.6,9.3,1.1,0.6
+2014,Republic of Mordovia,8.2,55.9,7.4,0.7,0.4
+2014,Moscow,8.5,82.9,15.7,5.1,1.7
+2014,Moscow Oblast,8.2,97.7,10.1,2.4,1.3
+2014,Murmansk Oblast,8.0,56.3,11.3,2.7,1.7
+2014,Nenets Autonomous Okrug,11.4,49.5,11.5,2.1,1.0
+2014,Nizhny Novgorod Oblast,7.8,56.3,7.0,1.0,0.7
+2014,Novgorod Oblast,12.0,53.7,10.5,2.0,1.0
+2014,Novosibirsk Oblast,6.0,67.5,6.5,1.9,0.6
+2014,Omsk Oblast,4.9,79.7,4.3,1.5,0.5
+2014,Orenburg Oblast,4.0,60.5,3.7,1.2,0.3
+2014,Oryol Oblast,6.9,54.4,4.9,1.7,0.5
+2014,Penza Oblast,7.2,100.7,4.9,0.9,0.4
+2014,Perm Krai,6.5,52.9,8.5,1.3,0.9
+2014,Primorsky Krai,6.7,66.1,11.4,2.4,1.1
+2014,Pskov Oblast,12.1,47.5,8.4,1.9,0.7
+2014,Altai Republic,4.2,39.0,8.8,1.4,0.4
+2014,Komi Republic,10.4,65.0,14.3,2.0,1.3
+2014,Tuva Republic,2.1,84.6,4.0,0.7,0.3
+2014,Rostov Oblast,4.5,55.0,3.9,1.3,0.5
+2014,Ryazan Oblast,6.7,52.1,5.6,1.4,0.6
+2014,Samara Oblast,5.6,59.9,4.9,1.7,0.6
+2014,Saint Petersburg,8.2,41.8,7.7,2.9,1.3
+2014,Saratov Oblast,5.1,37.8,3.4,1.5,0.5
+2014,Sakhalin Oblast,8.0,76.7,13.4,3.8,1.3
+2014,Sverdlovsk Oblast,7.3,73.7,8.4,1.8,0.9
+2014,Sevastopol,5.6,26.0,5.1,2.1,1.3
+2014,Republic of North Ossetia-Alania,0.6,19.8,1.3,0.6,0.1
+2014,Smolensk Oblast,8.7,55.5,8.8,2.1,0.9
+2014,Stavropol Krai,4.8,59.3,3.0,1.4,0.6
+2014,Tambov Oblast,5.2,61.7,3.9,0.8,0.4
+2014,Republic of Tatarstan,4.2,70.9,9.3,0.8,0.6
+2014,Tver Oblast,8.1,64.2,9.4,1.7,0.8
+2014,Tomsk Oblast,5.5,45.1,6.8,1.5,0.7
+2014,Tula Oblast,5.3,47.8,5.6,1.3,0.6
+2014,Tyumen Oblast,5.2,77.9,9.9,2.0,1.2
+2014,Udmurt Republic,5.9,68.8,9.3,1.0,0.6
+2014,Ulyanovsk Oblast,6.4,47.6,4.9,1.2,0.5
+2014,Khabarovsk Krai,5.7,90.9,12.0,3.0,0.9
+2014,Republic of Khakassia,4.1,82.2,4.6,1.2,0.6
+2014,Khanty–Mansi Autonomous Okrug – Yugra,4.4,69.9,10.9,1.8,1.4
+2014,Chelyabinsk Oblast,5.9,53.9,5.8,1.7,0.6
+2014,Chechen Republic,,4.9,,,
+2014,Chuvash Republic,6.5,40.2,9.4,0.7,0.5
+2014,Chukotka Autonomous Okrug,9.6,32.7,11.3,2.6,1.5
+2014,Sakha (Yakutia) Republic,5.4,56.1,9.8,1.9,0.6
+2014,Yamalo-Nenets Autonomous Okrug,5.0,86.2,10.2,2.0,1.5
+2014,Yaroslavl Oblast,9.9,60.9,9.8,1.5,1.0
+2015,Republic of Adygea,3.9,26.0,3.5,1.2,0.5
+2015,Altai Krai,4.4,45.8,4.5,0.9,0.3
+2015,Amur Oblast,6.0,50.7,6.7,1.5,0.5
+2015,Arkhangelsk Oblast,9.0,49.1,11.8,1.8,0.9
+2015,Astrakhan Oblast,4.7,37.4,4.7,0.9,0.6
+2015,Republic of Bashkortostan,3.3,42.0,5.7,0.8,0.4
+2015,Belgorod Oblast,2.7,53.4,4.6,1.1,0.3
+2015,Bryansk Oblast,8.3,39.5,5.7,1.2,0.5
+2015,Republic of Buryatia,5.2,38.3,7.9,0.7,0.3
+2015,Vladimir Oblast,9.2,50.9,7.4,1.0,0.7
+2015,Volgograd Oblast,5.2,48.8,3.3,1.4,0.5
+2015,Vologda Oblast,8.5,34.7,9.3,1.1,0.6
+2015,Voronezh Oblast,5.5,51.1,4.1,1.4,0.5
+2015,Republic of Dagestan,0.4,2.1,1.9,0.3,0.3
+2015,Jewish Autonomous Oblast,5.4,59.0,8.0,1.6,0.4
+2015,Zabaykalsky Krai,6.6,31.9,7.0,0.9,0.3
+2015,Ivanovo Oblast,7.7,72.1,6.6,0.9,0.5
+2015,Republic of Ingushetia,,0.5,,,
+2015,Irkutsk Oblast,6.0,66.9,6.8,1.4,0.5
+2015,Kabardino-Balkar Republic,0.6,16.3,0.5,0.3,0.1
+2015,Kaliningrad Oblast,8.6,36.1,7.2,1.4,1.1
+2015,Republic of Kalmykia,2.7,19.6,3.4,0.3,0.4
+2015,Kaluga Oblast,7.6,45.6,7.6,1.6,0.9
+2015,Kamchatka Krai,7.0,81.2,11.4,3.7,1.5
+2015,Karachay-Cherkess Republic,1.1,28.9,0.8,0.3,0.2
+2015,Republic of Karelia,11.7,53.8,12.0,1.5,1.1
+2015,Kemerovo Oblast,4.9,72.4,6.8,1.2,0.5
+2015,Kirov Oblast,7.5,72.9,9.7,1.0,0.5
+2015,Kostroma Oblast,7.0,39.1,8.2,1.0,0.5
+2015,Krasnodar Krai,5.6,63.0,3.8,1.7,0.7
+2015,Krasnoyarsk Krai,5.1,60.1,5.9,1.6,0.7
+2015,Republic of Crimea,4.0,42.8,3.8,1.6,0.9
+2015,Kurgan Oblast,4.9,63.6,3.3,1.1,0.4
+2015,Kursk Oblast,5.5,41.9,3.8,1.4,0.4
+2015,Leningrad Oblast,9.5,44.4,9.6,1.8,1.3
+2015,Lipetsk Oblast,6.2,40.0,4.5,1.1,0.4
+2015,Magadan Oblast,8.2,59.8,14.1,3.9,1.7
+2015,Mari El Republic,8.5,32.4,8.8,0.8,0.6
+2015,Republic of Mordovia,5.3,31.4,6.6,0.7,0.3
+2015,Moscow,7.5,79.5,13.3,4.5,1.5
+2015,Moscow Oblast,8.3,94.9,9.4,2.3,1.2
+2015,Murmansk Oblast,8.5,45.7,12.2,2.7,1.9
+2015,Nenets Autonomous Okrug,12.8,56.9,12.5,2.6,1.1
+2015,Nizhny Novgorod Oblast,6.8,56.9,6.7,1.1,0.7
+2015,Novgorod Oblast,10.5,49.3,8.5,1.4,0.9
+2015,Novosibirsk Oblast,5.8,55.7,4.9,1.4,0.5
+2015,Omsk Oblast,5.0,60.4,3.4,1.2,0.4
+2015,Orenburg Oblast,4.5,42.0,3.2,1.0,0.3
+2015,Oryol Oblast,7.2,49.4,4.4,1.5,0.5
+2015,Penza Oblast,6.2,65.6,4.3,0.7,0.3
+2015,Perm Krai,5.8,47.3,6.9,0.9,0.8
+2015,Primorsky Krai,6.2,71.5,7.7,2.0,0.8
+2015,Pskov Oblast,9.7,50.9,6.7,1.7,0.7
+2015,Altai Republic,4.3,40.3,7.7,1.0,0.3
+2015,Komi Republic,9.5,64.7,13.0,1.7,1.1
+2015,Tuva Republic,1.9,67.0,2.2,0.5,0.2
+2015,Rostov Oblast,4.4,55.3,3.8,1.2,0.5
+2015,Ryazan Oblast,6.4,41.5,5.1,1.2,0.5
+2015,Samara Oblast,5.7,60.6,4.5,1.3,0.6
+2015,Saint Petersburg,8.1,36.1,6.9,2.3,1.3
+2015,Saratov Oblast,5.0,42.4,2.8,0.9,0.4
+2015,Sakhalin Oblast,8.8,82.8,13.0,3.9,1.2
+2015,Sverdlovsk Oblast,7.2,63.9,6.8,1.6,0.9
+2015,Sevastopol,5.0,15.2,4.1,2.0,0.9
+2015,Republic of North Ossetia-Alania,0.5,19.2,0.6,0.5,0.1
+2015,Smolensk Oblast,8.0,51.8,7.1,1.7,0.8
+2015,Stavropol Krai,3.9,57.5,2.4,1.1,0.5
+2015,Tambov Oblast,4.9,58.1,3.0,0.8,0.3
+2015,Republic of Tatarstan,4.2,64.0,9.1,0.7,0.5
+2015,Tver Oblast,7.7,68.6,8.2,1.5,0.7
+2015,Tomsk Oblast,5.1,46.2,4.5,1.4,0.6
+2015,Tula Oblast,5.5,46.4,4.6,1.1,0.5
+2015,Tyumen Oblast,5.2,75.7,8.9,1.9,1.1
+2015,Udmurt Republic,5.5,60.3,9.0,0.9,0.6
+2015,Ulyanovsk Oblast,7.6,46.6,5.1,1.5,0.6
+2015,Khabarovsk Krai,6.0,68.3,11.1,2.8,0.8
+2015,Republic of Khakassia,4.5,84.3,4.7,1.4,0.5
+2015,Khanty–Mansi Autonomous Okrug – Yugra,4.4,68.7,9.8,2.0,1.3
+2015,Chelyabinsk Oblast,4.8,43.6,4.4,1.4,0.5
+2015,Chechen Republic,,2.2,,,
+2015,Chuvash Republic,6.3,41.4,8.2,0.5,0.4
+2015,Chukotka Autonomous Okrug,4.7,31.5,11.2,2.6,1.3
+2015,Sakha (Yakutia) Republic,5.1,56.0,8.9,1.7,0.6
+2015,Yamalo-Nenets Autonomous Okrug,4.6,82.7,8.6,1.9,1.3
+2015,Yaroslavl Oblast,9.3,39.0,8.7,1.4,0.9
+2016,Republic of Adygea,3.6,27.3,3.6,1.0,0.5
+2016,Altai Krai,4.8,37.3,4.5,0.7,0.3
+2016,Amur Oblast,6.2,46.9,6.0,1.3,0.5
+2016,Arkhangelsk Oblast,8.4,51.6,12.2,1.8,0.9
+2016,Astrakhan Oblast,4.5,38.3,4.5,0.9,0.6
+2016,Republic of Bashkortostan,2.7,61.9,6.8,0.6,0.5
+2016,Belgorod Oblast,2.6,53.4,4.2,0.9,0.3
+2016,Bryansk Oblast,7.0,35.0,4.8,0.7,0.4
+2016,Republic of Buryatia,4.8,36.8,7.8,0.8,0.3
+2016,Vladimir Oblast,8.8,50.9,7.5,1.0,0.7
+2016,Volgograd Oblast,5.5,39.8,3.3,1.2,0.5
+2016,Vologda Oblast,8.6,37.3,9.9,1.2,0.6
+2016,Voronezh Oblast,5.5,43.4,4.3,1.3,0.6
+2016,Republic of Dagestan,0.1,1.0,2.2,0.2,0.3
+2016,Jewish Autonomous Oblast,5.5,59.6,8.3,1.6,0.5
+2016,Zabaykalsky Krai,6.4,30.8,6.8,0.9,0.3
+2016,Ivanovo Oblast,8.2,55.4,7.8,1.1,0.5
+2016,Republic of Ingushetia,,,,,
+2016,Irkutsk Oblast,6.1,61.3,6.8,1.3,0.5
+2016,Kabardino-Balkar Republic,0.6,14.5,0.5,0.2,0.1
+2016,Kaliningrad Oblast,8.6,38.2,6.2,1.4,1.1
+2016,Republic of Kalmykia,2.6,20.3,3.3,0.3,0.4
+2016,Kaluga Oblast,7.5,45.1,7.6,1.5,0.9
+2016,Kamchatka Krai,6.6,85.4,10.4,3.3,1.3
+2016,Karachay-Cherkess Republic,0.9,25.3,0.7,0.2,0.1
+2016,Republic of Karelia,11.5,51.7,12.2,1.4,1.2
+2016,Kemerovo Oblast,4.9,60.4,7.6,1.2,0.5
+2016,Kirov Oblast,7.3,70.4,9.7,1.0,0.5
+2016,Kostroma Oblast,7.2,49.4,8.5,1.0,0.5
+2016,Krasnodar Krai,5.3,63.5,3.8,1.5,0.6
+2016,Krasnoyarsk Krai,5.3,58.2,5.8,1.7,0.5
+2016,Republic of Crimea,4.4,42.1,5.1,1.7,0.7
+2016,Kurgan Oblast,4.6,59.2,3.0,0.9,0.4
+2016,Kursk Oblast,5.3,43.2,4.0,1.1,0.4
+2016,Leningrad Oblast,8.1,41.0,8.4,1.6,1.3
+2016,Lipetsk Oblast,6.2,39.7,4.6,1.1,0.4
+2016,Magadan Oblast,7.6,56.5,12.7,3.1,1.3
+2016,Mari El Republic,8.0,38.2,9.5,0.8,0.7
+2016,Republic of Mordovia,4.7,46.1,6.5,0.6,0.3
+2016,Moscow,6.6,69.2,12.1,4.0,1.1
+2016,Moscow Oblast,8.7,99.1,9.6,2.2,1.3
+2016,Murmansk Oblast,8.1,47.6,12.2,2.5,1.9
+2016,Nenets Autonomous Okrug,11.7,59.6,11.5,2.6,1.0
+2016,Nizhny Novgorod Oblast,6.3,56.6,6.5,1.1,0.7
+2016,Novgorod Oblast,10.6,47.4,8.5,1.4,0.9
+2016,Novosibirsk Oblast,6.7,46.6,4.9,1.3,0.6
+2016,Omsk Oblast,5.0,53.2,3.5,1.1,0.5
+2016,Orenburg Oblast,4.5,42.4,3.3,1.0,0.3
+2016,Oryol Oblast,6.4,44.2,4.1,1.2,0.5
+2016,Penza Oblast,5.9,51.1,4.4,0.6,0.3
+2016,Perm Krai,5.5,51.5,7.1,0.9,0.7
+2016,Primorsky Krai,6.8,72.4,8.6,2.2,0.8
+2016,Pskov Oblast,10.4,38.5,6.4,1.5,0.8
+2016,Altai Republic,4.5,42.2,6.6,1.0,0.3
+2016,Komi Republic,9.6,63.4,12.5,1.6,1.2
+2016,Tuva Republic,1.9,59.5,2.4,0.5,0.2
+2016,Rostov Oblast,4.2,55.4,3.8,1.1,0.5
+2016,Ryazan Oblast,6.3,41.1,4.9,1.2,0.6
+2016,Samara Oblast,6.2,59.9,4.3,1.2,0.6
+2016,Saint Petersburg,7.1,33.7,6.3,1.9,1.2
+2016,Saratov Oblast,4.6,42.1,2.9,0.8,0.4
+2016,Sakhalin Oblast,7.6,58.3,12.8,3.3,1.3
+2016,Sverdlovsk Oblast,7.6,55.5,7.3,1.7,1.0
+2016,Sevastopol,5.4,22.9,7.0,1.8,1.1
+2016,Republic of North Ossetia-Alania,0.5,17.3,0.4,0.4,0.1
+2016,Smolensk Oblast,7.9,48.0,6.8,1.6,0.8
+2016,Stavropol Krai,3.8,57.4,2.3,1.1,0.5
+2016,Tambov Oblast,4.8,58.2,3.0,0.8,0.4
+2016,Republic of Tatarstan,4.4,59.1,9.0,0.6,0.5
+2016,Tver Oblast,7.8,63.6,7.9,1.6,0.7
+2016,Tomsk Oblast,5.1,43.4,4.5,1.4,0.6
+2016,Tula Oblast,5.5,43.1,4.7,1.0,0.5
+2016,Tyumen Oblast,5.1,73.4,8.4,1.9,1.1
+2016,Udmurt Republic,5.5,58.1,8.6,0.9,0.6
+2016,Ulyanovsk Oblast,6.6,46.9,4.6,1.1,0.5
+2016,Khabarovsk Krai,7.0,73.7,11.2,2.6,0.9
+2016,Republic of Khakassia,4.3,79.1,4.7,1.4,0.5
+2016,Khanty–Mansi Autonomous Okrug – Yugra,4.3,67.5,9.2,2.0,1.3
+2016,Chelyabinsk Oblast,5.3,42.6,5.1,1.2,0.6
+2016,Chechen Republic,,1.2,,,
+2016,Chuvash Republic,5.0,42.3,7.7,0.7,0.4
+2016,Chukotka Autonomous Okrug,3.9,34.0,11.6,1.8,1.1
+2016,Sakha (Yakutia) Republic,4.3,56.1,8.2,1.8,0.5
+2016,Yamalo-Nenets Autonomous Okrug,4.5,75.8,8.2,1.7,1.3
+2016,Yaroslavl Oblast,10.2,38.0,8.9,1.4,1.0
