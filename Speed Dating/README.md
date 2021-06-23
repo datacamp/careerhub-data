@@ -1,6 +1,12 @@
-Data gathered from participants in speed dating events, including demographic information, ratings of dating partners, decision whether to see partner again, and more.
+# Speed Dating Service Data
 
-### Data Dictionary:
+## Project Brief
+
+Following a recent speed dating event, your events team received complaints from customers that they had to spend too much time talking to people who were clearly never going to be a match for them. Overall the event was a success and they would like to run it again, but are interested in whether they could predict ahead of time who the most likely matches would be. If they could be over 70% confident that someone is a match, they would match them at the start of the event. They would like to know, based on this criteria, what proportion of attendees might be correctly pre-matched. 
+
+## Data
+
+Data gathered from participants in speed dating events, including demographic information, ratings of dating partners, decision whether to see partner again, and more.
 
 * gender: Gender of self
 * age: Age of self
