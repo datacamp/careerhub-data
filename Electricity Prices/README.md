@@ -18,9 +18,6 @@ Dataset containing the price of electricity for a data center in addition to fac
 - Month integer: month of the date
 - Year integer: year of the date
 - PeriodOfDay integer: denotes half hour period of day (0-47)
-- ForecastWindProduction: the forecasted wind production for this period
-- SystemLoadEA: the national load forecast for this period
-- SMPEA: the price forecast for this period
 - ORKTemperature: the actual temperature measured at Cork airport
 - ORKWindspeed: the actual windspeed measured at Cork airport
 - CO2Intensity: the actual CO2 intensity in (g/kWh) for the electricity produced
